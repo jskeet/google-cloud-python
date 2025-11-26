@@ -22,8 +22,14 @@ libraries:
       - google/cloud/secrets/v1beta1
     rest_numeric_enums: true
     grpc_service_config: secretmanager_grpc_service_config.json
+    output: packages/google-cloud-secret-manager
+    service_config: 
     python:
-      opt_args:
-        - warehouse-package-name=google-cloud-secret-manager
+      opt_args_by_channel:
+        google/cloud/secretmanager/v1:
+          - warehouse-package-name=google-cloud-secret-manager
+        google/cloud/secrets/v1beta1:
+          - python-gapic-namespace=google.cloud
+          - python-gapic-name=secretmanager
 versions:
   google-cloud-secret-manager: 2.25.0
