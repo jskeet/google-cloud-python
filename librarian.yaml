@@ -1,0 +1,29 @@
+version: v1
+language: python
+repo: googleapis/google-cloud-python
+sources:
+  googleapis:
+    commit: 9fcfbea0aa5b50fa22e190faceb073d74504172b
+    sha256: fixme
+default:
+  output: packages/{name}/
+  generate:
+    auto: true
+    one_library_per: api
+    transport: grpc+rest
+    rest_numeric_enums: true
+  release:
+    tag_format: '{name}-v{version}'
+libraries:
+  - name: google-cloud-secret-manager
+    channels:
+      - google/cloud/secretmanager/v1
+      - google/cloud/secretmanager/v1beta2
+      - google/cloud/secrets/v1beta1
+    rest_numeric_enums: true
+    grpc_service_config: secretmanager_grpc_service_config.json
+    python:
+      opt_args:
+        - warehouse-package-name=google-cloud-secret-manager
+versions:
+  google-cloud-secret-manager: 2.25.0
