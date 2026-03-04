@@ -3,7 +3,6 @@
     "api_id": "datastore.googleapis.com",
     "api_shortname": "datastore",
     "client_documentation": "https://cloud.google.com/python/docs/reference/datastore/latest",
-    "codeowner_team": "@googleapis/cloud-native-db-dpes @googleapis/api-datastore-sdk @googleapis/api-firestore-partners",
     "default_version": "v1",
     "distribution_name": "google-cloud-datastore",
     "issue_tracker": "https://issuetracker.google.com/savedsearches/559768",

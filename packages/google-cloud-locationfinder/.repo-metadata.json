@@ -5,12 +5,12 @@
     "client_documentation": "https://cloud.google.com/python/docs/reference/google-cloud-locationfinder/latest",
     "default_version": "v1",
     "distribution_name": "google-cloud-locationfinder",
-    "issue_tracker": "https://issuetracker.google.com/issues/new?component=1569265&template=1988535",
+    "issue_tracker": "https://issuetracker.google.com/issues/new?component=1569265\u0026template=1988535",
     "language": "python",
     "library_type": "GAPIC_AUTO",
     "name": "google-cloud-locationfinder",
     "name_pretty": "Cloud Location Finder API",
-    "product_documentation": "https://issuetracker.google.com/issues/new?component=1569265&template=1988535",
+    "product_documentation": "https://issuetracker.google.com/issues/new?component=1569265\u0026template=1988535",
     "release_level": "preview",
     "repo": "googleapis/google-cloud-python"
 }
