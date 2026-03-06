@@ -15,15 +15,15 @@
 #
 # Generated code. DO NOT EDIT!
 #
-# Snippet for GetGroup
+# Snippet for UpdateSecuritySettings
 # NOTE: This snippet has been automatically generated for illustrative purposes only.
 # It may require modifications to work in your environment.
 
 # To install the latest published package dependency, execute the following:
-#   python3 -m pip install google-cloud-error-reporting
+#   python3 -m pip install google-cloud-ces
 
 
-# [START clouderrorreporting_v1beta1_generated_ErrorGroupService_GetGroup_async]
+# [START ces_v1beta_generated_AgentService_UpdateSecuritySettings_async]
 # This snippet has been automatically generated and should be regarded as a
 # code template only.
 # It will require modifications to work:
@@ -31,23 +31,21 @@
 # - It may require specifying regional endpoints when creating the service
 #   client as shown in:
 #   https://googleapis.dev/python/google-api-core/latest/client_options.html
-from google.cloud import errorreporting_v1beta1
+from google.cloud import ces_v1beta
 
 
-async def sample_get_group():
+async def sample_update_security_settings():
     # Create a client
-    client = errorreporting_v1beta1.ErrorGroupServiceAsyncClient()
+    client = ces_v1beta.AgentServiceAsyncClient()
 
     # Initialize request argument(s)
-    request = errorreporting_v1beta1.GetGroupRequest(
-        group_name="group_name_value",
-    )
+    request = ces_v1beta.UpdateSecuritySettingsRequest()
 
     # Make the request
-    response = await client.get_group(request=request)
+    response = await client.update_security_settings(request=request)
 
     # Handle the response
     print(response)
 
 
-# [END clouderrorreporting_v1beta1_generated_ErrorGroupService_GetGroup_async]
+# [END ces_v1beta_generated_AgentService_UpdateSecuritySettings_async]
