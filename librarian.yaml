@@ -1471,6 +1471,29 @@ libraries:
           - rest-numeric-enums=False
       name_pretty_override: Compute Engine
       metadata_name_override: compute
+  - name: google-cloud-compute-preview
+    version: 1.46.0-preview.1
+    apis:
+      - path: google/cloud/compute/v1
+    description_override: delivers virtual machines running in Google's innovative data centers and worldwide fiber network. Compute Engine's tooling and workflow support enable scaling from single instances to global, load-balanced cloud computing. Compute Engine's VMs boot quickly, come with persistent disk storage, deliver consistent performance and are available in many configurations.
+    keep:
+      - CHANGELOG.md
+      - docs/CHANGELOG.md
+      - tests/system
+      - tests/system/__init__.py
+      - tests/system/base.py
+      - tests/system/test_addresses.py
+      - tests/system/test_instance_group.py
+      - tests/system/test_pagination.py
+      - tests/system/test_smoke.py
+    output: preview-packages/google-cloud-compute
+    python:
+      opt_args_by_api:
+        google/cloud/compute/v1:
+          - transport=rest
+          - rest-numeric-enums=False
+      name_pretty_override: Compute Engine
+      metadata_name_override: compute
   - name: google-cloud-compute-v1beta
     version: 0.8.0
     apis:
