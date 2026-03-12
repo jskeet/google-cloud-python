@@ -15,8 +15,8 @@ language: python
 repo: googleapis/google-cloud-python
 sources:
   googleapis:
-    commit: 256b575f6915282b20795c13414b21f2c0af65db
-    sha256: 36af505f07f7f8b485517269e033e139e83683e084313b6b9081ea3a89afdc14
+    commit: 2f1018466f3cebd2982699cafc14ae740f65fec1
+    sha256: a348fff0f8d36509efb2c7e567fb13d33ba3b178d1c5b8f8b913ebac44bd7c6b
 default:
   output: packages
   release_level: stable
