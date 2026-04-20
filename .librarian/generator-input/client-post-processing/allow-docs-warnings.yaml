@@ -16,6 +16,12 @@ url: https://github.com/googleapis/gapic-generator-python/issues/2490
 replacements:
   - paths: [
       packages/google-shopping-merchant-accounts/noxfile.py,
+      packages/google-cloud-compute/noxfile.py,
+      packages/google-cloud-compute-v1beta/noxfile.py,
+      packages/google-cloud-container/noxfile.py,
+      packages/google-cloud-dataplex/noxfile.py,
+      packages/google-cloud-network-connectivity/noxfile.py,
+      packages/google-cloud-recaptcha-enterprise/noxfile.py,
     ]
     before: '        "-W",  # warnings as errors\n'
     after: ''
