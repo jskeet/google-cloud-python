@@ -3777,7 +3777,6 @@ libraries:
     keep:
       - CHANGELOG.md
       - docs/CHANGELOG.md
-    skip_generate: true
     python:
       name_pretty_override: Vector Search API
       product_documentation_override: https://docs.cloud.google.com/vertex-ai/docs/vector-search-2/overview
