@@ -77,7 +77,6 @@ libraries:
       client_documentation_override: https://googleapis.dev/python/db-dtypes/latest/index.html
   - name: django-google-spanner
     version: 4.0.3
-    skip_generate: true
     python:
       library_type: INTEGRATION
       name_pretty_override: Cloud Spanner Django
