@@ -356,9 +356,9 @@ libraries:
       - path: google/cloud/alloydb/connectors/v1
       - path: google/cloud/alloydb/connectors/v1beta
       - path: google/cloud/alloydb/connectors/v1alpha
+    description_override: provides enterprise-grade performance and availability while maintaining 100% compatibility with open-source PostgreSQL.
     keep:
       - tests/unit/gapic/connectors_v1/test_connectors.py
-    description_override: provides enterprise-grade performance and availability while maintaining 100% compatibility with open-source PostgreSQL.
     python:
       api_shortname_override: connectors
       metadata_name_override: connectors
@@ -1060,9 +1060,9 @@ libraries:
     version: 1.9.0
     apis:
       - path: google/cloud/common
+    description_override: This package contains generated Python types for google.cloud.common
     keep:
       - tests/unit/gapic/common/test_common.py
-    description_override: This package contains generated Python types for google.cloud.common
     python:
       library_type: CORE
       name_pretty_override: Google Cloud Common
@@ -1610,6 +1610,7 @@ libraries:
       - path: google/firestore/v1
       - path: google/firestore/admin/v1
       - path: google/firestore/bundle
+    description_override: is a fully-managed NoSQL document database for mobile, web, and server development from Firebase and Google Cloud Platform.  It's backed by a multi-region replicated database that ensures once data is committed, it's durable even in the face of unexpected disasters. Not only that, but despite being a distributed database, it's also strongly consistent and offers seamless integration with other Firebase and Google Cloud Platform products, including Google Cloud Functions.
     keep:
       - docs/firestore_admin_v1/admin_client.rst
       - docs/firestore_v1/aggregation.rst
@@ -1623,7 +1624,6 @@ libraries:
       - docs/firestore_v1/transaction.rst
       - docs/firestore_v1/transforms.rst
       - docs/firestore_v1/types.rst
-    description_override: is a fully-managed NoSQL document database for mobile, web, and server development from Firebase and Google Cloud Platform.  It's backed by a multi-region replicated database that ensures once data is committed, it's durable even in the face of unexpected disasters. Not only that, but despite being a distributed database, it's also strongly consistent and offers seamless integration with other Firebase and Google Cloud Platform products, including Google Cloud Functions.
     skip_generate: true
     python:
       library_type: GAPIC_COMBO
@@ -1706,6 +1706,7 @@ libraries:
     apis:
       - path: google/cloud/gkehub/v1
       - path: google/cloud/gkehub/v1beta1
+    description_override: provides a unified way to work with Kubernetes clusters as part of Anthos, extending GKE to work in multiple environments. You have consistent, unified, and secure infrastructure, cluster, and container management, whether you're using Anthos on Google Cloud (with traditional GKE), hybrid cloud, or multiple public clouds.
     keep:
       - docs/gkehub_v1/configmanagement_v1/services_.rst
       - docs/gkehub_v1/configmanagement_v1/types_.rst
@@ -1714,7 +1715,6 @@ libraries:
       - docs/gkehub_v1/rbacrolebindingactuation_v1
       - docs/gkehub_v1/rbacrolebindingactuation_v1/services_.rst
       - docs/gkehub_v1/rbacrolebindingactuation_v1/types_.rst
-    description_override: provides a unified way to work with Kubernetes clusters as part of Anthos, extending GKE to work in multiple environments. You have consistent, unified, and secure infrastructure, cluster, and container management, whether you're using Anthos on Google Cloud (with traditional GKE), hybrid cloud, or multiple public clouds.
     python:
       opt_args_by_api:
         google/cloud/gkehub/v1:
@@ -2077,10 +2077,10 @@ libraries:
     version: 2.21.0
     apis:
       - path: google/monitoring/dashboard/v1
+    description_override: are one way for you to view and analyze metric data. The Cloud Console provides predefined dashboards that require no setup or configuration. You can also define custom dashboards. With custom dashboards, you have complete control over the charts that are displayed and their configuration.
     keep:
       - tests/unit/gapic/dashboard_v1/__init__.py
       - tests/unit/gapic/dashboard_v1/test_dashboards_service.py
-    description_override: are one way for you to view and analyze metric data. The Cloud Console provides predefined dashboards that require no setup or configuration. You can also define custom dashboards. With custom dashboards, you have complete control over the charts that are displayed and their configuration.
     python:
       opt_args_by_api:
         google/monitoring/dashboard/v1:
@@ -2734,6 +2734,7 @@ libraries:
       - path: google/spanner/v1
       - path: google/spanner/admin/instance/v1
       - path: google/spanner/admin/database/v1
+    description_override: "is the world's first fully managed relational database service \nto offer both strong consistency and horizontal scalability for \nmission-critical online transaction processing (OLTP) applications. With Cloud \nSpanner you enjoy all the traditional benefits of a relational database; but \nunlike any other relational database service, Cloud Spanner scales horizontally \nto hundreds or thousands of servers to handle the biggest transactional \nworkloads."
     keep:
       - docs/spanner_v1/batch.rst
       - docs/spanner_v1/client.rst
@@ -2746,7 +2747,6 @@ libraries:
       - docs/spanner_v1/table.rst
       - docs/spanner_v1/transaction.rst
       - tests/unit/gapic/conftest.py
-    description_override: "is the world's first fully managed relational database service \nto offer both strong consistency and horizontal scalability for \nmission-critical online transaction processing (OLTP) applications. With Cloud \nSpanner you enjoy all the traditional benefits of a relational database; but \nunlike any other relational database service, Cloud Spanner scales horizontally \nto hundreds or thousands of servers to handle the biggest transactional \nworkloads."
     python:
       library_type: GAPIC_COMBO
       opt_args_by_api:
