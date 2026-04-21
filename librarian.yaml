@@ -1688,7 +1688,6 @@ libraries:
       - tests/system
       - tests/system/__init__.py
       - tests/system/smoke_test.py
-    skip_generate: true
     python:
       name_pretty_override: Google Cloud Dataproc
       metadata_name_override: dataproc
