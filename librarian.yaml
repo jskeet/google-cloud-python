@@ -4626,7 +4626,6 @@ libraries:
       skip_readme_copy: true
   - name: sqlalchemy-bigquery
     version: 1.16.0
-    skip_generate: true
     python:
       library_type: INTEGRATION
       name_pretty_override: SQLAlchemy dialect for BigQuery
