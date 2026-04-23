@@ -1260,7 +1260,6 @@ libraries:
     version: 0.1.0
     apis:
       - path: google/cloud/datacatalog/lineage/configmanagement/v1
-    skip_generate: true
     python:
       opt_args_by_api:
         google/cloud/datacatalog/lineage/configmanagement/v1:
