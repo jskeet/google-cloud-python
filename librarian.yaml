@@ -784,19 +784,15 @@ libraries:
         google/cloud/bigquery/datapolicies/v1:
           - python-gapic-namespace=google.cloud
           - python-gapic-name=bigquery_datapolicies
-          - transport=grpc+rest
         google/cloud/bigquery/datapolicies/v1beta1:
           - python-gapic-namespace=google.cloud
           - python-gapic-name=bigquery_datapolicies
-          - transport=grpc
         google/cloud/bigquery/datapolicies/v2:
           - python-gapic-namespace=google.cloud
           - python-gapic-name=bigquery_datapolicies
-          - transport=grpc+rest
         google/cloud/bigquery/datapolicies/v2beta1:
           - python-gapic-namespace=google.cloud
           - python-gapic-name=bigquery_datapolicies
-          - transport=grpc+rest
       product_documentation_override: https://cloud.google.com/bigquery/docs/reference/bigquerydatapolicy/rest
       metadata_name_override: bigquerydatapolicy
       default_version: v1
@@ -930,11 +926,6 @@ libraries:
       - path: google/cloud/billing/budgets/v1beta1
     description_override: The Cloud Billing Budget API stores Cloud Billing budgets, which define a budget plan and the rules to execute as spend is tracked against that plan.
     python:
-      opt_args_by_api:
-        google/cloud/billing/budgets/v1:
-          - transport=grpc+rest
-        google/cloud/billing/budgets/v1beta1:
-          - transport=grpc
       product_documentation_override: https://cloud.google.com/billing/docs/how-to/budget-api-overview
       metadata_name_override: billingbudgets
       default_version: v1
@@ -1152,11 +1143,9 @@ libraries:
         google/container/v1:
           - python-gapic-namespace=google.cloud
           - warehouse-package-name=google-cloud-container
-          - transport=grpc+rest
         google/container/v1beta1:
           - python-gapic-namespace=google.cloud
           - warehouse-package-name=google-cloud-container
-          - transport=grpc
       metadata_name_override: container
       default_version: v1
   - name: google-cloud-containeranalysis
@@ -1630,14 +1619,11 @@ libraries:
         google/firestore/admin/v1:
           - python-gapic-name=firestore_admin
           - python-gapic-namespace=google.cloud
-          - transport=grpc+rest
         google/firestore/bundle:
           - python-gapic-namespace=google.cloud
           - python-gapic-name=firestore_bundle
-          - transport=grpc
         google/firestore/v1:
           - python-gapic-namespace=google.cloud
-          - transport=grpc+rest
       name_pretty_override: Cloud Firestore API
       product_documentation_override: https://cloud.google.com/firestore
       issue_tracker_override: https://issuetracker.google.com/savedsearches/5337669
@@ -1785,32 +1771,26 @@ libraries:
           - python-gapic-name=iam_admin
           - python-gapic-namespace=google.cloud
           - warehouse-package-name=google-cloud-iam
-          - transport=grpc
         google/iam/credentials/v1:
           - warehouse-package-name=google-cloud-iam
           - python-gapic-namespace=google.cloud
           - python-gapic-name=iam_credentials
-          - transport=grpc+rest
         google/iam/v2:
           - python-gapic-name=iam
           - python-gapic-namespace=google.cloud
           - warehouse-package-name=google-cloud-iam
-          - transport=grpc+rest
         google/iam/v2beta:
           - python-gapic-name=iam
           - python-gapic-namespace=google.cloud
           - warehouse-package-name=google-cloud-iam
-          - transport=grpc
         google/iam/v3:
           - python-gapic-name=iam
           - python-gapic-namespace=google.cloud
           - warehouse-package-name=google-cloud-iam
-          - transport=grpc+rest
         google/iam/v3beta:
           - python-gapic-name=iam
           - python-gapic-namespace=google.cloud
           - warehouse-package-name=google-cloud-iam
-          - transport=grpc+rest
       name_pretty_override: Cloud Identity and Access Management
       product_documentation_override: https://cloud.google.com/iam/docs/
       api_shortname_override: iamcredentials
@@ -2197,13 +2177,6 @@ libraries:
       - path: google/cloud/notebooks/v1beta1
     description_override: is a managed service that offers an integrated and secure JupyterLab environment for data scientists and machine learning developers to experiment, develop, and deploy models into production. Users can create instances running JupyterLab that come pre-installed with the latest data science and machine learning frameworks in a single click.
     python:
-      opt_args_by_api:
-        google/cloud/notebooks/v1:
-          - transport=grpc
-        google/cloud/notebooks/v1beta1:
-          - transport=grpc+rest
-        google/cloud/notebooks/v2:
-          - transport=grpc+rest
       name_pretty_override: AI Platform Notebooks
       product_documentation_override: https://cloud.google.com/ai-platform/notebooks/
       metadata_name_override: notebooks
@@ -2907,13 +2880,6 @@ libraries:
       - path: google/cloud/tpu/v2alpha1
     description_override: Cloud Tensor Processing Units (TPUs) are Google's custom-developed application-specific integrated circuits (ASICs) used to accelerate machine learning workloads.
     python:
-      opt_args_by_api:
-        google/cloud/tpu/v1:
-          - transport=grpc
-        google/cloud/tpu/v2:
-          - transport=grpc+rest
-        google/cloud/tpu/v2alpha1:
-          - transport=grpc
       metadata_name_override: tpu
       default_version: v1
   - name: google-cloud-trace
@@ -3006,17 +2972,6 @@ libraries:
       - path: google/cloud/videointelligence/v1beta2
     description_override: makes videos searchable, and discoverable, by extracting metadata with an easy to use API. You can now search every moment of every video file in your catalog and find every occurrence as well as its significance. It quickly annotates videos stored in Google Cloud Storage, and helps you identify key nouns entities of your video, and when they occur within the video. Separate signal from noise, by retrieving relevant information at the video, shot or per frame.
     python:
-      opt_args_by_api:
-        google/cloud/videointelligence/v1:
-          - transport=grpc+rest
-        google/cloud/videointelligence/v1beta2:
-          - transport=grpc+rest
-        google/cloud/videointelligence/v1p1beta1:
-          - transport=grpc+rest
-        google/cloud/videointelligence/v1p2beta1:
-          - transport=grpc+rest
-        google/cloud/videointelligence/v1p3beta1:
-          - transport=grpc
       name_pretty_override: Video Intelligence
       product_documentation_override: https://cloud.google.com/video-intelligence/docs/
       metadata_name_override: videointelligence
@@ -3111,15 +3066,6 @@ libraries:
       - path: google/cloud/workflows/v1beta
     description_override: Orchestrate and automate Google Cloud and HTTP-based API services with serverless workflows.
     python:
-      opt_args_by_api:
-        google/cloud/workflows/executions/v1:
-          - transport=grpc
-        google/cloud/workflows/executions/v1beta:
-          - transport=grpc
-        google/cloud/workflows/v1:
-          - transport=grpc+rest
-        google/cloud/workflows/v1beta:
-          - transport=grpc+rest
       name_pretty_override: Cloud Workflows
       metadata_name_override: workflows
       default_version: v1
