@@ -5,18 +5,18 @@ reverted. Instead, if you want to place additional content, create an
 pick up on the content and merge the content.
 ]: #
 
-# Identity-Aware Proxy API
+# Cloud Identity-Aware Proxy API
 
-Overview of the APIs available for Identity-Aware Proxy API.
+Overview of the APIs available for Cloud Identity-Aware Proxy API.
 
 ## All entries
 
 Classes, methods and properties & attributes for
-Identity-Aware Proxy API.
+Cloud Identity-Aware Proxy API.
 
-[classes](https://cloud.google.com/python/docs/reference/iap/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-iap/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/iap/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-iap/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/iap/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-iap/latest/summary_property.html)

@@ -5,18 +5,18 @@ reverted. Instead, if you want to place additional content, create an
 pick up on the content and merge the content.
 ]: #
 
-# Cloud Security Scanner API
+# Web Security Scanner API
 
-Overview of the APIs available for Cloud Security Scanner API.
+Overview of the APIs available for Web Security Scanner API.
 
 ## All entries
 
 Classes, methods and properties & attributes for
-Cloud Security Scanner API.
+Web Security Scanner API.
 
-[classes](https://cloud.google.com/python/docs/reference/websecurityscanner/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-websecurityscanner/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/websecurityscanner/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-websecurityscanner/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/websecurityscanner/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-websecurityscanner/latest/summary_property.html)

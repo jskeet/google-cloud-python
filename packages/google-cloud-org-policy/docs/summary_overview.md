@@ -14,9 +14,9 @@ Overview of the APIs available for Organization Policy API.
 Classes, methods and properties & attributes for
 Organization Policy API.
 
-[classes](https://cloud.google.com/python/docs/reference/orgpolicy/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-org-policy/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/orgpolicy/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-org-policy/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/orgpolicy/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-org-policy/latest/summary_property.html)

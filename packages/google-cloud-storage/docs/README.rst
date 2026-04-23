@@ -1,4 +1,4 @@
-Python Client for Google Cloud Storage
+Python Client for Cloud Storage
 ======================================
 
 |stable| |pypi| |versions|

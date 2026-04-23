@@ -5,18 +5,18 @@ reverted. Instead, if you want to place additional content, create an
 pick up on the content and merge the content.
 ]: #
 
-# Secure Source Manager API API
+# Secure Source Manager API
 
-Overview of the APIs available for Secure Source Manager API API.
+Overview of the APIs available for Secure Source Manager API.
 
 ## All entries
 
 Classes, methods and properties & attributes for
-Secure Source Manager API API.
+Secure Source Manager API.
 
-[classes](https://cloud.google.com/python/docs/reference/securesourcemanager/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-securesourcemanager/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/securesourcemanager/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-securesourcemanager/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/securesourcemanager/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-securesourcemanager/latest/summary_property.html)

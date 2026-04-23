@@ -14,9 +14,9 @@ Overview of the APIs available for Cloud Tasks API.
 Classes, methods and properties & attributes for
 Cloud Tasks API.
 
-[classes](https://cloud.google.com/python/docs/reference/cloudtasks/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-tasks/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/cloudtasks/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-tasks/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/cloudtasks/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-tasks/latest/summary_property.html)

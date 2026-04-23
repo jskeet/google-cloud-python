@@ -14,9 +14,9 @@ Overview of the APIs available for Enterprise Knowledge Graph API.
 Classes, methods and properties & attributes for
 Enterprise Knowledge Graph API.
 
-[classes](https://cloud.google.com/python/docs/reference/enterpriseknowledgegraph/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-enterpriseknowledgegraph/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/enterpriseknowledgegraph/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-enterpriseknowledgegraph/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/enterpriseknowledgegraph/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-enterpriseknowledgegraph/latest/summary_property.html)

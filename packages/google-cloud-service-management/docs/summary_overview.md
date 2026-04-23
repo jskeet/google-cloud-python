@@ -14,9 +14,9 @@ Overview of the APIs available for Service Management API.
 Classes, methods and properties & attributes for
 Service Management API.
 
-[classes](https://cloud.google.com/python/docs/reference/servicemanagement/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-service-management/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/servicemanagement/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-service-management/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/servicemanagement/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-service-management/latest/summary_property.html)

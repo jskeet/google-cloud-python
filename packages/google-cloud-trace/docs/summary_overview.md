@@ -14,9 +14,9 @@ Overview of the APIs available for Cloud Trace API.
 Classes, methods and properties & attributes for
 Cloud Trace API.
 
-[classes](https://cloud.google.com/python/docs/reference/cloudtrace/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-trace/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/cloudtrace/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-trace/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/cloudtrace/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-trace/latest/summary_property.html)

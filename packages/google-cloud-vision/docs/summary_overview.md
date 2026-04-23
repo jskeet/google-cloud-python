@@ -14,9 +14,9 @@ Overview of the APIs available for Cloud Vision API.
 Classes, methods and properties & attributes for
 Cloud Vision API.
 
-[classes](https://cloud.google.com/python/docs/reference/vision/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-vision/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/vision/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-vision/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/vision/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-vision/latest/summary_property.html)

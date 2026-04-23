@@ -14,9 +14,9 @@ Overview of the APIs available for Cloud Scheduler API.
 Classes, methods and properties & attributes for
 Cloud Scheduler API.
 
-[classes](https://cloud.google.com/python/docs/reference/cloudscheduler/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-scheduler/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/cloudscheduler/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-scheduler/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/cloudscheduler/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-scheduler/latest/summary_property.html)

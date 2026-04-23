@@ -14,9 +14,9 @@ Overview of the APIs available for BigQuery Reservation API.
 Classes, methods and properties & attributes for
 BigQuery Reservation API.
 
-[classes](https://cloud.google.com/python/docs/reference/bigqueryreservation/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-bigquery-reservation/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/bigqueryreservation/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-bigquery-reservation/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/bigqueryreservation/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-bigquery-reservation/latest/summary_property.html)

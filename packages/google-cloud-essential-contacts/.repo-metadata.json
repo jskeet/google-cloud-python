@@ -2,14 +2,14 @@
     "api_description": "helps you customize who receives notifications by providing your own list of contacts in many Google Cloud services.",
     "api_id": "essentialcontacts.googleapis.com",
     "api_shortname": "essentialcontacts",
-    "client_documentation": "https://cloud.google.com/python/docs/reference/essentialcontacts/latest",
+    "client_documentation": "https://cloud.google.com/python/docs/reference/google-cloud-essential-contacts/latest",
     "default_version": "v1",
     "distribution_name": "google-cloud-essential-contacts",
     "language": "python",
     "library_type": "GAPIC_AUTO",
-    "name": "essentialcontacts",
+    "name": "google-cloud-essential-contacts",
     "name_pretty": "Essential Contacts",
-    "product_documentation": "https://cloud.google.com/resource-manager/docs/managing-notification-contacts/",
+    "product_documentation": "https://cloud.google.com/resource-manager/",
     "release_level": "stable",
     "repo": "googleapis/google-cloud-python"
 }

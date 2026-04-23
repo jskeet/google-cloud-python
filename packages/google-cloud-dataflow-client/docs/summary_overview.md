@@ -14,9 +14,9 @@ Overview of the APIs available for Dataflow API.
 Classes, methods and properties & attributes for
 Dataflow API.
 
-[classes](https://cloud.google.com/python/docs/reference/dataflow/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-dataflow-client/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/dataflow/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-dataflow-client/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/dataflow/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-dataflow-client/latest/summary_property.html)

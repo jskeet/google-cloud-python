@@ -14,9 +14,9 @@ Overview of the APIs available for Dataproc Metastore API.
 Classes, methods and properties & attributes for
 Dataproc Metastore API.
 
-[classes](https://cloud.google.com/python/docs/reference/metastore/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-dataproc-metastore/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/metastore/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-dataproc-metastore/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/metastore/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-dataproc-metastore/latest/summary_property.html)

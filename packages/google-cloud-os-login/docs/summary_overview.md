@@ -5,18 +5,18 @@ reverted. Instead, if you want to place additional content, create an
 pick up on the content and merge the content.
 ]: #
 
-# Google Cloud OS Login API
+# Cloud OS Login API
 
-Overview of the APIs available for Google Cloud OS Login API.
+Overview of the APIs available for Cloud OS Login API.
 
 ## All entries
 
 Classes, methods and properties & attributes for
-Google Cloud OS Login API.
+Cloud OS Login API.
 
-[classes](https://cloud.google.com/python/docs/reference/oslogin/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-os-login/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/oslogin/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-os-login/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/oslogin/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-os-login/latest/summary_property.html)

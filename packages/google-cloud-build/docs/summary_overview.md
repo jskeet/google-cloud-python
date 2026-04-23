@@ -14,9 +14,9 @@ Overview of the APIs available for Cloud Build API.
 Classes, methods and properties & attributes for
 Cloud Build API.
 
-[classes](https://cloud.google.com/python/docs/reference/cloudbuild/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-build/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/cloudbuild/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-build/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/cloudbuild/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-build/latest/summary_property.html)

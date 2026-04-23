@@ -14,9 +14,9 @@ Overview of the APIs available for Cloud Life Sciences API.
 Classes, methods and properties & attributes for
 Cloud Life Sciences API.
 
-[classes](https://cloud.google.com/python/docs/reference/lifesciences/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-life-sciences/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/lifesciences/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-life-sciences/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/lifesciences/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-life-sciences/latest/summary_property.html)

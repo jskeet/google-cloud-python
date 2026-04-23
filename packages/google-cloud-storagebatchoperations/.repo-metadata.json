@@ -9,8 +9,8 @@
     "language": "python",
     "library_type": "GAPIC_AUTO",
     "name": "google-cloud-storagebatchoperations",
-    "name_pretty": "Storage Batch Operations API",
-    "product_documentation": "https://cloud.google.com/storage/docs/batch-operations/overview",
+    "name_pretty": "Storage Batch Operations",
+    "product_documentation": "https://cloud.google.com/storage/",
     "release_level": "preview",
     "repo": "googleapis/google-cloud-python"
 }

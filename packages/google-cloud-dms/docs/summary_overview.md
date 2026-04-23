@@ -5,18 +5,18 @@ reverted. Instead, if you want to place additional content, create an
 pick up on the content and merge the content.
 ]: #
 
-# Cloud Database Migration Service API
+# Database Migration API
 
-Overview of the APIs available for Cloud Database Migration Service API.
+Overview of the APIs available for Database Migration API.
 
 ## All entries
 
 Classes, methods and properties & attributes for
-Cloud Database Migration Service API.
+Database Migration API.
 
-[classes](https://cloud.google.com/python/docs/reference/datamigration/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-dms/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/datamigration/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-dms/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/datamigration/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-dms/latest/summary_property.html)

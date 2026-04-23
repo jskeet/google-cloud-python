@@ -14,9 +14,9 @@ Overview of the APIs available for Recommendations AI API.
 Classes, methods and properties & attributes for
 Recommendations AI API.
 
-[classes](https://cloud.google.com/python/docs/reference/recommendationengine/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-recommendations-ai/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/recommendationengine/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-recommendations-ai/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/recommendationengine/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-recommendations-ai/latest/summary_property.html)

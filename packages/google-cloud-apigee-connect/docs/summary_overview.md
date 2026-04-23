@@ -14,9 +14,9 @@ Overview of the APIs available for Apigee Connect API.
 Classes, methods and properties & attributes for
 Apigee Connect API.
 
-[classes](https://cloud.google.com/python/docs/reference/apigeeconnect/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-apigee-connect/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/apigeeconnect/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-apigee-connect/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/apigeeconnect/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-apigee-connect/latest/summary_property.html)

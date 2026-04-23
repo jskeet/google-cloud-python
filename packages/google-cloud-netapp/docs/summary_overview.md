@@ -5,18 +5,18 @@ reverted. Instead, if you want to place additional content, create an
 pick up on the content and merge the content.
 ]: #
 
-# NetApp API API
+# NetApp API
 
-Overview of the APIs available for NetApp API API.
+Overview of the APIs available for NetApp API.
 
 ## All entries
 
 Classes, methods and properties & attributes for
-NetApp API API.
+NetApp API.
 
-[classes](https://cloud.google.com/python/docs/reference/netapp/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-netapp/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/netapp/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-netapp/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/netapp/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-netapp/latest/summary_property.html)

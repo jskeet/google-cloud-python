@@ -14,9 +14,9 @@ Overview of the APIs available for Cloud Composer API.
 Classes, methods and properties & attributes for
 Cloud Composer API.
 
-[classes](https://cloud.google.com/python/docs/reference/composer/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-orchestration-airflow/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/composer/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-orchestration-airflow/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/composer/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-orchestration-airflow/latest/summary_property.html)

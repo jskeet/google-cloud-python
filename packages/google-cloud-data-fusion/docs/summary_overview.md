@@ -14,9 +14,9 @@ Overview of the APIs available for Cloud Data Fusion API.
 Classes, methods and properties & attributes for
 Cloud Data Fusion API.
 
-[classes](https://cloud.google.com/python/docs/reference/datafusion/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-data-fusion/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/datafusion/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-data-fusion/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/datafusion/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-data-fusion/latest/summary_property.html)

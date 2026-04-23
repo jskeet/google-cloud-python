@@ -5,18 +5,18 @@ reverted. Instead, if you want to place additional content, create an
 pick up on the content and merge the content.
 ]: #
 
-# Virtual Private Cloud API
+# Serverless VPC Access API
 
-Overview of the APIs available for Virtual Private Cloud API.
+Overview of the APIs available for Serverless VPC Access API.
 
 ## All entries
 
 Classes, methods and properties & attributes for
-Virtual Private Cloud API.
+Serverless VPC Access API.
 
-[classes](https://cloud.google.com/python/docs/reference/vpcaccess/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-vpc-access/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/vpcaccess/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-vpc-access/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/vpcaccess/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-vpc-access/latest/summary_property.html)

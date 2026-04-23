@@ -14,9 +14,9 @@ Overview of the APIs available for API Gateway API.
 Classes, methods and properties & attributes for
 API Gateway API.
 
-[classes](https://cloud.google.com/python/docs/reference/apigateway/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-api-gateway/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/apigateway/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-api-gateway/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/apigateway/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-api-gateway/latest/summary_property.html)

@@ -14,9 +14,9 @@ Overview of the APIs available for AlloyDB API.
 Classes, methods and properties & attributes for
 AlloyDB API.
 
-[classes](https://cloud.google.com/python/docs/reference/alloydb/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-alloydb/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/alloydb/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-alloydb/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/alloydb/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-alloydb/latest/summary_property.html)

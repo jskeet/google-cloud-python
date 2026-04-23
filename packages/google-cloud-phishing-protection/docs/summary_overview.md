@@ -14,9 +14,9 @@ Overview of the APIs available for Phishing Protection API.
 Classes, methods and properties & attributes for
 Phishing Protection API.
 
-[classes](https://cloud.google.com/python/docs/reference/phishingprotection/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-phishing-protection/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/phishingprotection/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-phishing-protection/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/phishingprotection/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-phishing-protection/latest/summary_property.html)

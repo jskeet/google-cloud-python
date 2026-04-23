@@ -5,18 +5,18 @@ reverted. Instead, if you want to place additional content, create an
 pick up on the content and merge the content.
 ]: #
 
-# Video Intelligence API
+# Cloud Video Intelligence API
 
-Overview of the APIs available for Video Intelligence API.
+Overview of the APIs available for Cloud Video Intelligence API.
 
 ## All entries
 
 Classes, methods and properties & attributes for
-Video Intelligence API.
+Cloud Video Intelligence API.
 
-[classes](https://cloud.google.com/python/docs/reference/videointelligence/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-videointelligence/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/videointelligence/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-videointelligence/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/videointelligence/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-videointelligence/latest/summary_property.html)

@@ -5,12 +5,10 @@
     "client_documentation": "https://cloud.google.com/python/docs/reference/google-cloud-compute-v1beta/latest",
     "default_version": "v1beta",
     "distribution_name": "google-cloud-compute-v1beta",
-    "issue_tracker": "https://issuetracker.google.com/issues/new?component=187134\u0026template=0",
     "language": "python",
     "library_type": "GAPIC_AUTO",
     "name": "google-cloud-compute-v1beta",
-    "name_pretty": "Compute Engine",
-    "product_documentation": "https://cloud.google.com/compute/",
-    "release_level": "stable",
+    "name_pretty": "Google Compute Engine",
+    "release_level": "preview",
     "repo": "googleapis/google-cloud-python"
 }

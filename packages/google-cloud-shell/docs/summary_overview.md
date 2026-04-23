@@ -14,9 +14,9 @@ Overview of the APIs available for Cloud Shell API.
 Classes, methods and properties & attributes for
 Cloud Shell API.
 
-[classes](https://cloud.google.com/python/docs/reference/cloudshell/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-shell/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/cloudshell/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-shell/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/cloudshell/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-shell/latest/summary_property.html)

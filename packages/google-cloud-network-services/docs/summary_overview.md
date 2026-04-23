@@ -14,9 +14,9 @@ Overview of the APIs available for Network Services API.
 Classes, methods and properties & attributes for
 Network Services API.
 
-[classes](https://cloud.google.com/python/docs/reference/networkservices/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-network-services/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/networkservices/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-network-services/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/networkservices/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-network-services/latest/summary_property.html)

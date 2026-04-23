@@ -14,9 +14,9 @@ Overview of the APIs available for Access Approval API.
 Classes, methods and properties & attributes for
 Access Approval API.
 
-[classes](https://cloud.google.com/python/docs/reference/accessapproval/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-access-approval/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/accessapproval/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-access-approval/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/accessapproval/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-access-approval/latest/summary_property.html)

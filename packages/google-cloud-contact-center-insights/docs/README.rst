@@ -15,7 +15,7 @@ Python Client for Contact Center AI Insights
 .. |versions| image:: https://img.shields.io/pypi/pyversions/google-cloud-contact-center-insights.svg
    :target: https://pypi.org/project/google-cloud-contact-center-insights/
 .. _Contact Center AI Insights: https://cloud.google.com/contact-center/insights/docs
-.. _Client Library Documentation: https://cloud.google.com/python/docs/reference/contactcenterinsights/latest/summary_overview
+.. _Client Library Documentation: https://cloud.google.com/python/docs/reference/google-cloud-contact-center-insights/latest/summary_overview
 .. _Product Documentation:  https://cloud.google.com/contact-center/insights/docs
 
 Quick Start

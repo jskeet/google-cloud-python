@@ -14,9 +14,9 @@ Overview of the APIs available for Artifact Registry API.
 Classes, methods and properties & attributes for
 Artifact Registry API.
 
-[classes](https://cloud.google.com/python/docs/reference/artifactregistry/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-artifact-registry/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/artifactregistry/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-artifact-registry/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/artifactregistry/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-artifact-registry/latest/summary_property.html)

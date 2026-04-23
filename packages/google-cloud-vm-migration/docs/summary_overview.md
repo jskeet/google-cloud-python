@@ -5,18 +5,18 @@ reverted. Instead, if you want to place additional content, create an
 pick up on the content and merge the content.
 ]: #
 
-# Cloud VM Migration API
+# VM Migration API
 
-Overview of the APIs available for Cloud VM Migration API.
+Overview of the APIs available for VM Migration API.
 
 ## All entries
 
 Classes, methods and properties & attributes for
-Cloud VM Migration API.
+VM Migration API.
 
-[classes](https://cloud.google.com/python/docs/reference/vmmigration/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-vm-migration/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/vmmigration/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-vm-migration/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/vmmigration/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-vm-migration/latest/summary_property.html)

@@ -5,18 +5,18 @@ reverted. Instead, if you want to place additional content, create an
 pick up on the content and merge the content.
 ]: #
 
-# Private Catalog API
+# Cloud Private Catalog API
 
-Overview of the APIs available for Private Catalog API.
+Overview of the APIs available for Cloud Private Catalog API.
 
 ## All entries
 
 Classes, methods and properties & attributes for
-Private Catalog API.
+Cloud Private Catalog API.
 
-[classes](https://cloud.google.com/python/docs/reference/cloudprivatecatalog/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-private-catalog/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/cloudprivatecatalog/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-private-catalog/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/cloudprivatecatalog/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-private-catalog/latest/summary_property.html)

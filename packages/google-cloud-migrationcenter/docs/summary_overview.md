@@ -5,18 +5,18 @@ reverted. Instead, if you want to place additional content, create an
 pick up on the content and merge the content.
 ]: #
 
-# Migration Center API API
+# Migration Center API
 
-Overview of the APIs available for Migration Center API API.
+Overview of the APIs available for Migration Center API.
 
 ## All entries
 
 Classes, methods and properties & attributes for
-Migration Center API API.
+Migration Center API.
 
-[classes](https://cloud.google.com/python/docs/reference/migrationcenter/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-migrationcenter/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/migrationcenter/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-migrationcenter/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/migrationcenter/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-migrationcenter/latest/summary_property.html)

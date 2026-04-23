@@ -14,9 +14,9 @@ Overview of the APIs available for Media Translation API.
 Classes, methods and properties & attributes for
 Media Translation API.
 
-[classes](https://cloud.google.com/python/docs/reference/mediatranslation/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-media-translation/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/mediatranslation/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-media-translation/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/mediatranslation/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-media-translation/latest/summary_property.html)

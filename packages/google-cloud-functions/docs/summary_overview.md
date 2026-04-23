@@ -14,9 +14,9 @@ Overview of the APIs available for Cloud Functions API.
 Classes, methods and properties & attributes for
 Cloud Functions API.
 
-[classes](https://cloud.google.com/python/docs/reference/cloudfunctions/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-functions/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/cloudfunctions/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-functions/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/cloudfunctions/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-functions/latest/summary_property.html)

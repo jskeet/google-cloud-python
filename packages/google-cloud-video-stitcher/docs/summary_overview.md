@@ -14,9 +14,9 @@ Overview of the APIs available for Video Stitcher API.
 Classes, methods and properties & attributes for
 Video Stitcher API.
 
-[classes](https://cloud.google.com/python/docs/reference/videostitcher/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-video-stitcher/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/videostitcher/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-video-stitcher/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/videostitcher/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-video-stitcher/latest/summary_property.html)

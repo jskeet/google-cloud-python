@@ -9,8 +9,8 @@
     "language": "python",
     "library_type": "GAPIC_AUTO",
     "name": "google-cloud-developerconnect",
-    "name_pretty": "Developer Connect API",
-    "product_documentation": "https://cloud.google.com/developer-connect/docs/overview",
+    "name_pretty": "Developer Connect",
+    "product_documentation": "https://cloud.google.com/developer-connect/",
     "release_level": "preview",
     "repo": "googleapis/google-cloud-python"
 }

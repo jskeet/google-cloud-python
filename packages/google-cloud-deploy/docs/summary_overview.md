@@ -5,18 +5,18 @@ reverted. Instead, if you want to place additional content, create an
 pick up on the content and merge the content.
 ]: #
 
-# Google Cloud Deploy API
+# Cloud Deploy API
 
-Overview of the APIs available for Google Cloud Deploy API.
+Overview of the APIs available for Cloud Deploy API.
 
 ## All entries
 
 Classes, methods and properties & attributes for
-Google Cloud Deploy API.
+Cloud Deploy API.
 
-[classes](https://cloud.google.com/python/docs/reference/clouddeploy/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-deploy/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/clouddeploy/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-deploy/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/clouddeploy/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-deploy/latest/summary_property.html)

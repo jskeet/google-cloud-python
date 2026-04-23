@@ -5,18 +5,18 @@ reverted. Instead, if you want to place additional content, create an
 pick up on the content and merge the content.
 ]: #
 
-# Google Cloud Security Command Center API
+# Security Command Center API
 
-Overview of the APIs available for Google Cloud Security Command Center API.
+Overview of the APIs available for Security Command Center API.
 
 ## All entries
 
 Classes, methods and properties & attributes for
-Google Cloud Security Command Center API.
+Security Command Center API.
 
-[classes](https://cloud.google.com/python/docs/reference/securitycenter/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-securitycenter/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/securitycenter/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-securitycenter/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/securitycenter/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-securitycenter/latest/summary_property.html)

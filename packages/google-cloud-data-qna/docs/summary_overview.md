@@ -14,9 +14,9 @@ Overview of the APIs available for Data QnA API.
 Classes, methods and properties & attributes for
 Data QnA API.
 
-[classes](https://cloud.google.com/python/docs/reference/dataqna/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-data-qna/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/dataqna/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-data-qna/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/dataqna/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-data-qna/latest/summary_property.html)

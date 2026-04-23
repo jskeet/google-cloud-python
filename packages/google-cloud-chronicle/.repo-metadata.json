@@ -9,8 +9,8 @@
     "language": "python",
     "library_type": "GAPIC_AUTO",
     "name": "google-cloud-chronicle",
-    "name_pretty": "Chronicle API",
-    "product_documentation": "https://cloud.google.com/chronicle/docs/secops/secops-overview",
+    "name_pretty": "Chronicle",
+    "product_documentation": "https://cloud.google.com/chronicle/",
     "release_level": "preview",
     "repo": "googleapis/google-cloud-python"
 }

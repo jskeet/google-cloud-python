@@ -14,9 +14,9 @@ Overview of the APIs available for AlloyDB connectors API.
 Classes, methods and properties & attributes for
 AlloyDB connectors API.
 
-[classes](https://cloud.google.com/python/docs/reference/connectors/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-alloydb-connectors/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/connectors/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-alloydb-connectors/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/connectors/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-alloydb-connectors/latest/summary_property.html)

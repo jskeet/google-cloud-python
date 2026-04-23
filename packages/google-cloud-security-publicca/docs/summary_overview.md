@@ -14,9 +14,9 @@ Overview of the APIs available for Public Certificate Authority API.
 Classes, methods and properties & attributes for
 Public Certificate Authority API.
 
-[classes](https://cloud.google.com/python/docs/reference/publicca/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-security-publicca/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/publicca/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-security-publicca/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/publicca/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-security-publicca/latest/summary_property.html)

@@ -5,18 +5,18 @@ reverted. Instead, if you want to place additional content, create an
 pick up on the content and merge the content.
 ]: #
 
-# IAM Policy Troubleshooter API API
+# Policy Troubleshooter API
 
-Overview of the APIs available for IAM Policy Troubleshooter API API.
+Overview of the APIs available for Policy Troubleshooter API.
 
 ## All entries
 
 Classes, methods and properties & attributes for
-IAM Policy Troubleshooter API API.
+Policy Troubleshooter API.
 
-[classes](https://cloud.google.com/python/docs/reference/policytroubleshooter/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-policy-troubleshooter/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/policytroubleshooter/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-policy-troubleshooter/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/policytroubleshooter/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-policy-troubleshooter/latest/summary_property.html)

@@ -5,18 +5,18 @@ reverted. Instead, if you want to place additional content, create an
 pick up on the content and merge the content.
 ]: #
 
-# Policy Simulator API API
+# Policy Simulator API
 
-Overview of the APIs available for Policy Simulator API API.
+Overview of the APIs available for Policy Simulator API.
 
 ## All entries
 
 Classes, methods and properties & attributes for
-Policy Simulator API API.
+Policy Simulator API.
 
-[classes](https://cloud.google.com/python/docs/reference/policysimulator/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-policysimulator/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/policysimulator/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-policysimulator/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/policysimulator/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-policysimulator/latest/summary_property.html)

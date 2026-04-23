@@ -14,9 +14,9 @@ Overview of the APIs available for Contact Center AI Insights API.
 Classes, methods and properties & attributes for
 Contact Center AI Insights API.
 
-[classes](https://cloud.google.com/python/docs/reference/contactcenterinsights/latest/summary_class.html)
+[classes](https://cloud.google.com/python/docs/reference/google-cloud-contact-center-insights/latest/summary_class.html)
 
-[methods](https://cloud.google.com/python/docs/reference/contactcenterinsights/latest/summary_method.html)
+[methods](https://cloud.google.com/python/docs/reference/google-cloud-contact-center-insights/latest/summary_method.html)
 
 [properties and
-attributes](https://cloud.google.com/python/docs/reference/contactcenterinsights/latest/summary_property.html)
+attributes](https://cloud.google.com/python/docs/reference/google-cloud-contact-center-insights/latest/summary_property.html)

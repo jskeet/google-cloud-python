@@ -2,15 +2,13 @@
     "api_description": "is a fully managed, schemaless database for\nstoring non-relational data. Cloud Datastore automatically scales with\nyour users and supports ACID transactions, high availability of reads and\nwrites, strong consistency for reads and ancestor queries, and eventual\nconsistency for all other queries.",
     "api_id": "datastore.googleapis.com",
     "api_shortname": "datastore",
-    "client_documentation": "https://cloud.google.com/python/docs/reference/datastore/latest",
+    "client_documentation": "https://cloud.google.com/python/docs/reference/google-cloud-datastore/latest",
     "default_version": "v1",
     "distribution_name": "google-cloud-datastore",
-    "issue_tracker": "https://issuetracker.google.com/savedsearches/559768",
     "language": "python",
     "library_type": "GAPIC_COMBO",
-    "name": "datastore",
-    "name_pretty": "Google Cloud Datastore API",
-    "product_documentation": "https://cloud.google.com/datastore",
+    "name": "google-cloud-datastore",
+    "name_pretty": "Cloud Datastore",
     "release_level": "stable",
     "repo": "googleapis/google-cloud-python"
 }
