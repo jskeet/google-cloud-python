@@ -13,25 +13,25 @@ global_files_allowlist:
     permissions: "read-write"
 
 libraries:
-# libraries have "release_blocked: true" so that releases are
-# explicitly initiated.
-# TODO(https://github.com/googleapis/google-cloud-python/issues/16180):
-# `google-django-spanner` is blocked until the presubmits are green.
+  # libraries have "release_blocked: true" so that releases are
+  # explicitly initiated.
+  # TODO(https://github.com/googleapis/google-cloud-python/issues/16180):
+  # `google-django-spanner` is blocked until the presubmits are green.
   - id: "google-django-spanner"
     release_blocked: true
-# TODO(https://github.com/googleapis/google-cloud-python/issues/16487):
-# Allow releases for google-cloud-storage once this bug is fixed.
+  # TODO(https://github.com/googleapis/google-cloud-python/issues/16487):
+  # Allow releases for google-cloud-storage once this bug is fixed.
   - id: "google-cloud-storage"
     release_blocked: true
-# TODO(https://github.com/googleapis/google-cloud-python/issues/16489):
-# Allow releases for bigframes once the bug above is fixed.
+  # TODO(https://github.com/googleapis/google-cloud-python/issues/16489):
+  # Allow releases for bigframes once the bug above is fixed.
   - id: "bigframes"
     release_blocked: true
-# TODO(https://github.com/googleapis/google-cloud-python/issues/16520):
-# Allow release for google-crc32c once this bug is fixed.
+  # TODO(https://github.com/googleapis/google-cloud-python/issues/16520):
+  # Allow release for google-crc32c once this bug is fixed.
   - id: "google-crc32c"
     release_blocked: true
-# TODO(https://github.com/googleapis/google-cloud-python/issues/16600):
-# Allow release for google-cloud-spanner after tests are fixed.
+  # TODO(https://github.com/googleapis/google-cloud-python/issues/16600):
+  # Allow release for google-cloud-spanner after tests are fixed.
   - id: "google-cloud-spanner"
     release_blocked: true
