@@ -5,7 +5,7 @@
     "client_documentation": "https://cloud.google.com/python/docs/reference/pubsub/latest",
     "default_version": "v1",
     "distribution_name": "google-cloud-pubsub",
-    "issue_tracker": "https://issuetracker.google.com/savedsearches/559741",
+    "issue_tracker": "https://issuetracker.google.com/issues/new?component=187173",
     "language": "python",
     "library_type": "GAPIC_COMBO",
     "name": "pubsub",
