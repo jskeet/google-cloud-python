@@ -60,7 +60,6 @@ libraries:
       name_pretty_override: A unified Python API in BigQuery
       product_documentation_override: https://cloud.google.com/bigquery
       api_shortname_override: bigquery
-      api_id_override: bigquery.googleapis.com
       client_documentation_override: https://cloud.google.com/python/docs/reference/bigframes/latest
       issue_tracker_override: https://github.com/googleapis/python-bigquery-dataframes/issues
   - name: bigquery-magics
@@ -69,7 +68,6 @@ libraries:
       library_type: INTEGRATION
       name_pretty_override: Google BigQuery connector for Jupyter and IPython
       product_documentation_override: https://cloud.google.com/bigquery
-      api_id_override: bigquery.googleapis.com
       client_documentation_override: https://googleapis.dev/python/bigquery-magics/latest/
       issue_tracker_override: https://github.com/googleapis/python-bigquery-magics/issues
   - name: db-dtypes
@@ -79,7 +77,6 @@ libraries:
       library_type: INTEGRATION
       name_pretty_override: Pandas Data Types for SQL systems (BigQuery, Spanner)
       product_documentation_override: https://pandas.pydata.org/pandas-docs/stable/ecosystem.html#ecosystem-extensions
-      api_id_override: bigquery.googleapis.com
       client_documentation_override: https://googleapis.dev/python/db-dtypes/latest/index.html
   - name: django-google-spanner
     version: 4.0.3
@@ -244,7 +241,6 @@ libraries:
           - warehouse-package-name=google-apps-card
       name_pretty_override: Google Apps Card Protos
       api_shortname_override: card
-      api_id_override: card.googleapis.com
       issue_tracker_override: https://github.com/googleapis/google-cloud-python/issues
       default_version: v1
   - name: google-apps-chat
@@ -280,7 +276,6 @@ libraries:
           - warehouse-package-name=google-apps-events-subscriptions
       name_pretty_override: Google Workspace Events API
       api_shortname_override: subscriptions
-      api_id_override: subscriptions.googleapis.com
       issue_tracker_override: https://github.com/googleapis/google-cloud-python/issues
       default_version: v1
   - name: google-apps-meet
@@ -357,7 +352,6 @@ libraries:
           - warehouse-package-name=google-apps-script-type
       name_pretty_override: Google Apps Script Type Protos
       api_shortname_override: type
-      api_id_override: type.googleapis.com
       issue_tracker_override: https://github.com/googleapis/google-cloud-python/issues
       metadata_name_override: type
       default_version: apiVersion
@@ -908,7 +902,6 @@ libraries:
       name_pretty_override: Google Cloud BigQuery
       product_documentation_override: https://cloud.google.com/bigquery
       api_shortname_override: bigquery
-      api_id_override: bigquery.googleapis.com
       issue_tracker_override: https://issuetracker.google.com/savedsearches/559654
       metadata_name_override: bigquery
       default_version: v2
@@ -2392,7 +2385,6 @@ libraries:
       name_pretty_override: KMS Inventory API
       product_documentation_override: https://cloud.google.com/kms/docs/
       api_shortname_override: inventory
-      api_id_override: inventory.googleapis.com
       metadata_name_override: inventory
       default_version: v1
   - name: google-cloud-language
@@ -2460,7 +2452,6 @@ libraries:
           - warehouse-package-name=google-cloud-locationfinder
       name_pretty_override: Cloud Location Finder API
       product_documentation_override: https://issuetracker.google.com/issues/new?component=1569265&template=1988535
-      api_id_override: locationfinder.googleapis.com
       default_version: v1
   - name: google-cloud-logging
     version: 3.15.0
@@ -2511,7 +2502,6 @@ libraries:
       name_pretty_override: Maintenance API
       product_documentation_override: https://cloud.google.com/unified-maintenance/docs/overview
       api_shortname_override: api
-      api_id_override: api.googleapis.com
       default_version: v1
   - name: google-cloud-managed-identities
     version: 1.15.0
@@ -2552,7 +2542,6 @@ libraries:
           - warehouse-package-name=google-cloud-managedkafka-schemaregistry
       name_pretty_override: Managed Service for Apache Kafka API
       api_shortname_override: schemaregistry
-      api_id_override: schemaregistry.googleapis.com
       default_version: v1
   - name: google-cloud-media-translation
     version: 0.14.0
@@ -2640,7 +2629,6 @@ libraries:
       name_pretty_override: Model Armor API
       product_documentation_override: https://cloud.google.com/security-command-center/docs/model-armor-overview
       api_shortname_override: securitycenter
-      api_id_override: securitycenter.googleapis.com
       default_version: v1
   - name: google-cloud-monitoring
     version: 2.30.0
@@ -3188,7 +3176,6 @@ libraries:
       name_pretty_override: Google Cloud Memorystore for Redis API
       product_documentation_override: https://cloud.google.com/redis/docs
       api_shortname_override: cluster
-      api_id_override: cluster.googleapis.com
       default_version: v1
   - name: google-cloud-resource-manager
     version: 1.17.0
@@ -3250,7 +3237,6 @@ libraries:
       name_pretty_override: Google Cloud Runtime Configurator
       product_documentation_override: https://cloud.google.com/deployment-manager/runtime-configurator/
       api_shortname_override: runtimeconfig
-      api_id_override: runtimeconfig.googleapis.com
       issue_tracker_override: https://issuetracker.google.com/savedsearches/559663
       metadata_name_override: runtimeconfig
   - name: google-cloud-saasplatform-saasservicemgmt
@@ -3388,7 +3374,6 @@ libraries:
       name_pretty_override: Security Center Management API
       product_documentation_override: https://cloud.google.com/securitycentermanagement/docs/overview
       api_shortname_override: securitycenter
-      api_id_override: securitycenter.googleapis.com
       issue_tracker_override: https://github.com/googleapis/google-cloud-python/issues
       default_version: v1
   - name: google-cloud-service-control
@@ -3498,7 +3483,6 @@ libraries:
       name_pretty_override: Source Context
       product_documentation_override: https://cloud.google.com
       api_shortname_override: source
-      api_id_override: source.googleapis.com
       issue_tracker_override: https://github.com/googleapis/google-cloud-python/issues
       metadata_name_override: source
       default_version: v1
@@ -4053,7 +4037,6 @@ libraries:
       name_pretty_override: Cloud Security Scanner
       product_documentation_override: https://cloud.google.com/security-scanner/docs/
       api_shortname_override: securitycenter
-      api_id_override: securitycenter.googleapis.com
       metadata_name_override: websecurityscanner
       default_version: v1
   - name: google-cloud-workflows
@@ -4143,7 +4126,6 @@ libraries:
           - warehouse-package-name=google-geo-type
       name_pretty_override: Geo Type Protos
       product_documentation_override: https://mapsplatform.google.com/maps-products
-      api_id_override: type.googleapis.com
       issue_tracker_override: https://github.com/googleapis/google-cloud-python/issues
       metadata_name_override: geotype
       default_version: apiVersion
@@ -4303,7 +4285,6 @@ libraries:
           - warehouse-package-name=google-maps-routing
       name_pretty_override: Google Maps Routing
       api_shortname_override: routing
-      api_id_override: routing.googleapis.com
       issue_tracker_override: https://github.com/googleapis/google-cloud-python/issues
       metadata_name_override: routing
       default_version: v2
@@ -4360,7 +4341,6 @@ libraries:
           - warehouse-package-name=google-shopping-merchant-accounts
       name_pretty_override: Merchant API
       api_shortname_override: accounts
-      api_id_override: accounts.googleapis.com
       issue_tracker_override: https://github.com/googleapis/google-cloud-python/issues
       default_version: v1
   - name: google-shopping-merchant-conversions
@@ -4403,7 +4383,6 @@ libraries:
           - warehouse-package-name=google-shopping-merchant-datasources
       name_pretty_override: Merchant API
       api_shortname_override: datasources
-      api_id_override: datasources.googleapis.com
       issue_tracker_override: https://github.com/googleapis/google-cloud-python/issues
       default_version: v1
   - name: google-shopping-merchant-inventories
@@ -4426,7 +4405,6 @@ libraries:
           - warehouse-package-name=google-shopping-merchant-inventories
       name_pretty_override: Merchant Inventories API
       api_shortname_override: inventories
-      api_id_override: inventories.googleapis.com
       default_version: v1
   - name: google-shopping-merchant-issueresolution
     version: 1.3.0
@@ -4448,7 +4426,6 @@ libraries:
           - warehouse-package-name=google-shopping-merchant-issueresolution
       name_pretty_override: Merchant API
       api_shortname_override: issueresolution
-      api_id_override: issueresolution.googleapis.com
       default_version: v1
   - name: google-shopping-merchant-lfp
     version: 1.3.0
@@ -4513,7 +4490,6 @@ libraries:
           - warehouse-package-name=google-shopping-merchant-ordertracking
       name_pretty_override: Merchant API
       api_shortname_override: ordertracking
-      api_id_override: ordertracking.googleapis.com
       default_version: v1
   - name: google-shopping-merchant-products
     version: 1.5.0
@@ -4535,7 +4511,6 @@ libraries:
           - warehouse-package-name=google-shopping-merchant-products
       name_pretty_override: Merchant API
       api_shortname_override: products
-      api_id_override: products.googleapis.com
       issue_tracker_override: https://github.com/googleapis/google-cloud-python/issues
       default_version: v1
   - name: google-shopping-merchant-productstudio
@@ -4551,7 +4526,6 @@ libraries:
           - warehouse-package-name=google-shopping-merchant-productstudio
       name_pretty_override: Merchant ProductStudio API
       api_shortname_override: productstudio
-      api_id_override: productstudio.googleapis.com
       issue_tracker_override: https://github.com/googleapis/google-cloud-python/issues
       default_version: v1alpha
   - name: google-shopping-merchant-promotions
@@ -4574,7 +4548,6 @@ libraries:
           - warehouse-package-name=google-shopping-merchant-promotions
       name_pretty_override: Merchant API
       api_shortname_override: promotions
-      api_id_override: promotions.googleapis.com
       issue_tracker_override: https://github.com/googleapis/google-cloud-python/issues
       default_version: v1
   - name: google-shopping-merchant-quota
@@ -4621,7 +4594,6 @@ libraries:
           - warehouse-package-name=google-shopping-merchant-reports
       name_pretty_override: Merchant Reports API
       api_shortname_override: reports
-      api_id_override: reports.googleapis.com
       default_version: v1
   - name: google-shopping-merchant-reviews
     version: 0.5.0
@@ -4637,7 +4609,6 @@ libraries:
           - warehouse-package-name=google-shopping-merchant-reviews
       name_pretty_override: Merchant Reviews API
       api_shortname_override: reviews
-      api_id_override: reviews.googleapis.com
       issue_tracker_override: https://github.com/googleapis/google-cloud-python/issues
       default_version: v1beta
   - name: google-shopping-type
@@ -4655,7 +4626,6 @@ libraries:
       name_pretty_override: Shopping Type Protos
       product_documentation_override: https://developers.google.com/merchant/api
       api_shortname_override: type
-      api_id_override: type.googleapis.com
       issue_tracker_override: https://github.com/googleapis/google-cloud-python/issues
       default_version: apiVersion
   - name: googleapis-common-protos
@@ -4707,7 +4677,6 @@ libraries:
       name_pretty_override: Cloud Identity and Access Management
       product_documentation_override: https://cloud.google.com/iam/docs/
       api_shortname_override: iam
-      api_id_override: iam.googleapis.com
       client_documentation_override: https://cloud.google.com/python/docs/reference/grpc-iam/latest
       metadata_name_override: grpc-iam
       default_version: apiVersion
@@ -4717,7 +4686,6 @@ libraries:
       library_type: INTEGRATION
       name_pretty_override: Google BigQuery connector for pandas
       product_documentation_override: https://cloud.google.com/bigquery
-      api_id_override: bigquery.googleapis.com
       client_documentation_override: https://googleapis.dev/python/pandas-gbq/latest/
       issue_tracker_override: https://github.com/googleapis/python-bigquery-pandas/issues
       skip_readme_copy: true
@@ -4733,7 +4701,6 @@ libraries:
     python:
       library_type: INTEGRATION
       name_pretty_override: SQLAlchemy dialect for BigQuery
-      api_id_override: bigquery.googleapis.com
       client_documentation_override: https://googleapis.dev/python/sqlalchemy-bigquery/latest/index.html
   - name: sqlalchemy-spanner
     version: 1.17.3
