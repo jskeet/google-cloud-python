@@ -10,7 +10,6 @@
     "library_type": "OTHER",
     "name": "geotype",
     "name_pretty": "Geo Type Protos",
-    "product_documentation": "https://mapsplatform.google.com/maps-products",
     "release_level": "preview",
     "repo": "googleapis/google-cloud-python"
 }

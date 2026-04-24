@@ -14,9 +14,9 @@ Python Client for Geo Type Protos
    :target: https://pypi.org/project/google-geo-type/
 .. |versions| image:: https://img.shields.io/pypi/pyversions/google-geo-type.svg
    :target: https://pypi.org/project/google-geo-type/
-.. _Geo Type Protos: https://mapsplatform.google.com/maps-products
+.. _Geo Type Protos: 
 .. _Client Library Documentation: https://googleapis.dev/python/geotype/latest
-.. _Product Documentation:  https://mapsplatform.google.com/maps-products
+.. _Product Documentation:  
 
 Quick Start
 -----------
@@ -30,7 +30,7 @@ In order to use this library, you first need to go through the following steps:
 
 .. _Select or create a Cloud Platform project.: https://console.cloud.google.com/project
 .. _Enable billing for your project.: https://cloud.google.com/billing/docs/how-to/modify-project#enable_billing_for_a_project
-.. _Enable the Geo Type Protos.:  https://mapsplatform.google.com/maps-products
+.. _Enable the Geo Type Protos.:  
 .. _Set up Authentication.: https://googleapis.dev/python/google-api-core/latest/auth.html
 
 Installation
@@ -104,7 +104,7 @@ Next Steps
 -  View this `README`_ to see the full list of Cloud
    APIs that we cover.
 
-.. _Geo Type Protos Product documentation:  https://mapsplatform.google.com/maps-products
+.. _Geo Type Protos Product documentation:  
 .. _README: https://github.com/googleapis/google-cloud-python/blob/main/README.rst
 
 Logging

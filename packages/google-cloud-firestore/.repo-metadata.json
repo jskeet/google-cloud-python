@@ -10,7 +10,6 @@
     "library_type": "GAPIC_COMBO",
     "name": "firestore",
     "name_pretty": "Cloud Firestore API",
-    "product_documentation": "https://cloud.google.com/firestore",
     "release_level": "stable",
     "repo": "googleapis/google-cloud-python"
 }
