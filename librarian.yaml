@@ -1897,12 +1897,10 @@ libraries:
     python:
       opt_args_by_api:
         google/cloud/documentai/v1:
-          - autogen-snippets
           - python-gapic-namespace=google.cloud
           - python-gapic-name=documentai
           - warehouse-package-name=google-cloud-documentai
         google/cloud/documentai/v1beta3:
-          - autogen-snippets
           - python-gapic-namespace=google.cloud
           - python-gapic-name=documentai
           - warehouse-package-name=google-cloud-documentai
@@ -3055,7 +3053,6 @@ libraries:
       opt_args_by_api:
         google/cloud/privatecatalog/v1beta1:
           - warehouse-package-name=google-cloud-private-catalog
-          - autogen-snippets
           - python-gapic-namespace=google.cloud
           - python-gapic-name=privatecatalog
       name_pretty_override: Private Catalog
