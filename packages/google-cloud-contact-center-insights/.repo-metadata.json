@@ -1,5 +1,4 @@
 {
-    "api_description": " helps users detect and visualize patterns in their contact center data.",
     "api_id": "contactcenterinsights.googleapis.com",
     "api_shortname": "contactcenterinsights",
     "client_documentation": "https://cloud.google.com/python/docs/reference/contactcenterinsights/latest",

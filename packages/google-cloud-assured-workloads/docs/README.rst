@@ -3,7 +3,7 @@ Python Client for Assured Workloads for Government
 
 |stable| |pypi| |versions|
 
-`Assured Workloads for Government`_: allows you to secure your government workloads and accelerate your path to running compliant workloads on Google Cloud with Assured Workloads for Government.
+`Assured Workloads for Government`_: 
 
 - `Client Library Documentation`_
 - `Product Documentation`_

@@ -3,7 +3,7 @@ Python Client for Essential Contacts
 
 |stable| |pypi| |versions|
 
-`Essential Contacts`_: helps you customize who receives notifications by providing your own list of contacts in many Google Cloud services.
+`Essential Contacts`_: 
 
 - `Client Library Documentation`_
 - `Product Documentation`_

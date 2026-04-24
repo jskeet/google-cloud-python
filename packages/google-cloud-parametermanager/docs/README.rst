@@ -3,7 +3,10 @@ Python Client for Parameter Manager API
 
 |preview| |pypi| |versions|
 
-`Parameter Manager API`_: (Public Preview) Parameter Manager is a single source of truth to store, access and manage the lifecycle of your workload parameters. Parameter Manager aims to make management of sensitive application parameters effortless for customers without diminishing focus on security. 
+`Parameter Manager API`_: Parameter Manager is a single source of truth to store, access and manage
+the lifecycle of your workload parameters. Parameter Manager aims to make
+management of sensitive application parameters effortless for customers
+without diminishing focus on security.
 
 - `Client Library Documentation`_
 - `Product Documentation`_

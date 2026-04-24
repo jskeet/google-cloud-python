@@ -3,7 +3,7 @@ Python Client for Google Cloud Common
 
 |stable| |pypi| |versions|
 
-`Google Cloud Common`_: This package contains generated Python types for google.cloud.common
+`Google Cloud Common`_: 
 
 - `Client Library Documentation`_
 - `Product Documentation`_

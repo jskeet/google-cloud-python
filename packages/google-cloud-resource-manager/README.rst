@@ -3,7 +3,8 @@ Python Client for Resource Manager
 
 |stable| |pypi| |versions|
 
-`Resource Manager`_: provides methods that you can use to programmatically manage your projects in the Google Cloud Platform.
+`Resource Manager`_: Creates, reads, and updates metadata for Google Cloud Platform resource
+containers.
 
 - `Client Library Documentation`_
 - `Product Documentation`_

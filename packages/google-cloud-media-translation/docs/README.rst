@@ -3,7 +3,7 @@ Python Client for Media Translation
 
 |preview| |pypi| |versions|
 
-`Media Translation`_: provides enterprise quality translation from/to various media types.
+`Media Translation`_: 
 
 - `Client Library Documentation`_
 - `Product Documentation`_

@@ -3,7 +3,7 @@ Python Client for Distributed Cloud Edge Network API
 
 |preview| |pypi| |versions|
 
-`Distributed Cloud Edge Network API`_: Network management API for Distributed Cloud Edge
+`Distributed Cloud Edge Network API`_: Network management API for Distributed Cloud Edge.
 
 - `Client Library Documentation`_
 - `Product Documentation`_

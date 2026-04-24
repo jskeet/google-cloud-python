@@ -3,7 +3,8 @@ Python Client for Migration Center API
 
 |preview| |pypi| |versions|
 
-`Migration Center API`_: A unified platform that helps you accelerate your end-to-end cloud journey from your current on-premises or cloud environments to Google Cloud.
+`Migration Center API`_: A unified platform that helps you accelerate your end-to-end cloud journey
+from your current on-premises or cloud environments to Google Cloud.
 
 - `Client Library Documentation`_
 - `Product Documentation`_

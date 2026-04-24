@@ -3,7 +3,7 @@ Python Client for Vision AI API
 
 |preview| |pypi| |versions|
 
-`Vision AI API`_: Easily build and deploy Vertex AI Vision applications using a single platform.
+`Vision AI API`_: 
 
 - `Client Library Documentation`_
 - `Product Documentation`_

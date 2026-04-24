@@ -3,11 +3,8 @@ Python Client for Google Cloud Datastore API
 
 |stable| |pypi| |versions|
 
-`Google Cloud Datastore API`_: is a fully managed, schemaless database for
-storing non-relational data. Cloud Datastore automatically scales with
-your users and supports ACID transactions, high availability of reads and
-writes, strong consistency for reads and ancestor queries, and eventual
-consistency for all other queries.
+`Google Cloud Datastore API`_: Accesses the schemaless NoSQL database to provide fully managed, robust,
+scalable storage for your application.
 
 - `Client Library Documentation`_
 - `Product Documentation`_

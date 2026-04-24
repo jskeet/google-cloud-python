@@ -3,7 +3,7 @@ Python Client for Google Maps Routing
 
 |preview| |pypi| |versions|
 
-`Google Maps Routing`_: Help your users find the ideal way to get from A to Z with comprehensive data and real-time traffic.
+`Google Maps Routing`_: routes.googleapis.com API.
 
 - `Client Library Documentation`_
 - `Product Documentation`_

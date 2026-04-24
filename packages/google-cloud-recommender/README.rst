@@ -3,7 +3,7 @@ Python Client for Cloud Recommender
 
 |stable| |pypi| |versions|
 
-`Cloud Recommender`_: delivers highly personalized product recommendations at scale.
+`Cloud Recommender`_: 
 
 - `Client Library Documentation`_
 - `Product Documentation`_

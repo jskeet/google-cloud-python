@@ -3,7 +3,7 @@ Python Client for Contact Center AI Insights
 
 |stable| |pypi| |versions|
 
-`Contact Center AI Insights`_:  helps users detect and visualize patterns in their contact center data.
+`Contact Center AI Insights`_: 
 
 - `Client Library Documentation`_
 - `Product Documentation`_

@@ -3,7 +3,7 @@ Python Client for Data Lineage API
 
 |preview| |pypi| |versions|
 
-`Data Lineage API`_: Data lineage is a Dataplex feature that lets you track how data moves through your systems: where it comes from, where it is passed to, and what transformations are applied to it.
+`Data Lineage API`_: 
 
 - `Client Library Documentation`_
 - `Product Documentation`_

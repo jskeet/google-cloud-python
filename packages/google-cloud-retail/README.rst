@@ -3,7 +3,10 @@ Python Client for Retail
 
 |stable| |pypi| |versions|
 
-`Retail`_: Cloud Retail service enables customers to build end-to-end personalized recommendation systems without requiring a high level of expertise in machine learning, recommendation system, or Google Cloud.
+`Retail`_: Vertex AI Search for commerce API is made up of Retail Search, Browse and
+Recommendations. These discovery AI solutions help you implement
+personalized search, browse and recommendations, based on machine learning
+models, across your websites and mobile applications.
 
 - `Client Library Documentation`_
 - `Product Documentation`_

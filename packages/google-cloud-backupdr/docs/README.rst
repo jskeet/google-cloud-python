@@ -3,7 +3,7 @@ Python Client for Backup and DR Service API
 
 |preview| |pypi| |versions|
 
-`Backup and DR Service API`_: Backup and DR Service ensures that your data is managed, protected, and accessible using both hybrid and cloud-based backup/recovery appliances that are managed using the Backup and DR management console.
+`Backup and DR Service API`_: 
 
 - `Client Library Documentation`_
 - `Product Documentation`_

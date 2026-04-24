@@ -1,5 +1,4 @@
 {
-    "api_description": "provides enterprise-grade performance and availability while maintaining 100% compatibility with open-source PostgreSQL.",
     "api_id": "connectors.googleapis.com",
     "api_shortname": "connectors",
     "client_documentation": "https://cloud.google.com/python/docs/reference/connectors/latest",

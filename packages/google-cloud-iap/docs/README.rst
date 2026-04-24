@@ -3,7 +3,7 @@ Python Client for Identity-Aware Proxy
 
 |stable| |pypi| |versions|
 
-`Identity-Aware Proxy`_: Identity-Aware Proxy includes a number of features that can be used to protect access to Google Cloud hosted resources and applications hosted on Google Cloud.
+`Identity-Aware Proxy`_: Controls access to cloud applications running on Google Cloud Platform.
 
 - `Client Library Documentation`_
 - `Product Documentation`_

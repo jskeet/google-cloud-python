@@ -3,7 +3,7 @@ Python Client for Google Cloud Deploy
 
 |stable| |pypi| |versions|
 
-`Google Cloud Deploy`_: is a service that automates delivery of your applications to a series of target environments in a defined sequence
+`Google Cloud Deploy`_: 
 
 - `Client Library Documentation`_
 - `Product Documentation`_

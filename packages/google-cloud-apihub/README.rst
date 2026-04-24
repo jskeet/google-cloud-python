@@ -3,7 +3,7 @@ Python Client for API Hub API
 
 |preview| |pypi| |versions|
 
-`API Hub API`_: API hub lets you consolidate and organize information about all of the APIs of interest to your organization. API hub lets you capture critical information about APIs that allows developers to discover and evaluate them easily and leverage the work of other teams wherever possible. API platform teams can use API hub to have visibility into and manage their portfolio of APIs.
+`API Hub API`_: 
 
 - `Client Library Documentation`_
 - `Product Documentation`_

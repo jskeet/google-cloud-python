@@ -3,7 +3,7 @@ Python Client for Storage Batch Operations API
 
 |preview| |pypi| |versions|
 
-`Storage Batch Operations API`_: null 
+`Storage Batch Operations API`_: 
 
 - `Client Library Documentation`_
 - `Product Documentation`_

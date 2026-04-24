@@ -3,7 +3,7 @@ Python Client for Apigee Registry API
 
 |preview| |pypi| |versions|
 
-`Apigee Registry API`_: allows teams to upload and share machine-readable descriptions of APIs that are in use and in development.
+`Apigee Registry API`_: 
 
 - `Client Library Documentation`_
 - `Product Documentation`_

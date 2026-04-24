@@ -3,7 +3,7 @@ Python Client for Managed Service for Apache Kafka API
 
 |preview| |pypi| |versions|
 
-`Managed Service for Apache Kafka API`_: Manage Apache Kafka clusters and resources. 
+`Managed Service for Apache Kafka API`_: Manage Apache Kafka clusters and resources.
 
 - `Client Library Documentation`_
 - `Product Documentation`_

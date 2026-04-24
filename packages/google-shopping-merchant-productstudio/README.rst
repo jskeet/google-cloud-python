@@ -3,7 +3,7 @@ Python Client for Merchant ProductStudio API
 
 |preview| |pypi| |versions|
 
-`Merchant ProductStudio API`_: Programmatically manage your Merchant Center accounts.
+`Merchant ProductStudio API`_: Programmatically manage your Merchant Center Accounts.
 
 - `Client Library Documentation`_
 - `Product Documentation`_

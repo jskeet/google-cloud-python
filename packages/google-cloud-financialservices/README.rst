@@ -3,7 +3,7 @@ Python Client for Anti Money Laundering AI API
 
 |preview| |pypi| |versions|
 
-`Anti Money Laundering AI API`_: Google Cloud's Anti Money Laundering AI (AML AI) product is an API that scores AML risk. Use it to identify more risk, more defensibly, with fewer false positives and reduced time per review.
+`Anti Money Laundering AI API`_: 
 
 - `Client Library Documentation`_
 - `Product Documentation`_

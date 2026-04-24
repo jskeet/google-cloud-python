@@ -3,7 +3,9 @@ Python Client for NetApp API
 
 |preview| |pypi| |versions|
 
-`NetApp API`_: NetApp API
+`NetApp API`_: Google Cloud NetApp Volumes is a fully-managed, cloud-based data storage
+service that provides advanced data management capabilities and highly
+scalable performance with global availability.
 
 - `Client Library Documentation`_
 - `Product Documentation`_

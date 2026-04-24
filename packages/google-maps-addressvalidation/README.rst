@@ -3,7 +3,10 @@ Python Client for Address Validation API
 
 |preview| |pypi| |versions|
 
-`Address Validation API`_: Address Validation lets you validate and correct address inputs with Places data powered by Google Maps Platform.
+`Address Validation API`_: The Address Validation API allows developers to verify the accuracy of
+addresses. Given an address, it returns information about the correctness
+of the components of the parsed address, a geocode, and a verdict on the
+deliverability of the parsed address.
 
 - `Client Library Documentation`_
 - `Product Documentation`_

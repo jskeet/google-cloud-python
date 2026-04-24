@@ -3,7 +3,7 @@ Python Client for Maps Platform Datasets API
 
 |preview| |pypi| |versions|
 
-`Maps Platform Datasets API`_: Maps Platform Datasets API
+`Maps Platform Datasets API`_: mapsplatformdatasets.googleapis.com API.
 
 - `Client Library Documentation`_
 - `Product Documentation`_

@@ -3,7 +3,8 @@ Python Client for Storage Transfer Service
 
 |stable| |pypi| |versions|
 
-`Storage Transfer Service`_: Secure, low-cost services for transferring data from cloud or on-premises sources.
+`Storage Transfer Service`_: Transfers data from external data sources to a Google Cloud Storage bucket
+or between Google Cloud Storage buckets.
 
 - `Client Library Documentation`_
 - `Product Documentation`_

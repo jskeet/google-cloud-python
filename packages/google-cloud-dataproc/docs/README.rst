@@ -3,7 +3,7 @@ Python Client for Google Cloud Dataproc
 
 |stable| |pypi| |versions|
 
-`Google Cloud Dataproc`_: is a faster, easier, more cost-effective way to run Apache Spark and Apache Hadoop.
+`Google Cloud Dataproc`_: Manages Hadoop-based clusters and jobs on Google Cloud Platform.
 
 - `Client Library Documentation`_
 - `Product Documentation`_

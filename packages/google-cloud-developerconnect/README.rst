@@ -3,7 +3,7 @@ Python Client for Developer Connect API
 
 |preview| |pypi| |versions|
 
-`Developer Connect API`_: Developer Connect streamlines integration with third-party source code management platforms by simplifying authentication, authorization, and networking configuration.
+`Developer Connect API`_: Connect third-party source code management to Google
 
 - `Client Library Documentation`_
 - `Product Documentation`_

@@ -3,7 +3,8 @@ Python Client for Secure Source Manager API
 
 |preview| |pypi| |versions|
 
-`Secure Source Manager API`_: Regionally deployed, single-tenant managed source code repository hosted on Google Cloud.
+`Secure Source Manager API`_: Regionally deployed, single-tenant managed source code repository hosted on
+Google Cloud.
 
 - `Client Library Documentation`_
 - `Product Documentation`_

@@ -3,7 +3,8 @@ Python Client for Service Health API
 
 |preview| |pypi| |versions|
 
-`Service Health API`_: Personalized Service Health helps you gain visibility into disruptive events impacting Google Cloud products.
+`Service Health API`_: Personalized Service Health helps you gain visibility into disruptive
+events impacting Google Cloud products.
 
 - `Client Library Documentation`_
 - `Product Documentation`_

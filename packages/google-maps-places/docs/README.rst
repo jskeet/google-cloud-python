@@ -3,7 +3,8 @@ Python Client for Places API
 
 |preview| |pypi| |versions|
 
-`Places API`_: The Places API allows developers to access a variety of search and retrieval endpoints for a Place.
+`Places API`_: The Places API allows developers to access a variety of search and
+retrieval endpoints for a Place.
 
 - `Client Library Documentation`_
 - `Product Documentation`_

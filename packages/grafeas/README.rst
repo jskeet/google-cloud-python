@@ -3,7 +3,8 @@ Python Client for Grafeas
 
 |stable| |pypi| |versions|
 
-`Grafeas`_: An implementation of the Grafeas API, which stores, and enables querying and retrieval of critical metadata about all of your software artifacts.
+`Grafeas`_: An implementation of the Grafeas API, which stores, and enables querying and
+retrieval of critical metadata about all of your software artifacts.
 
 - `Client Library Documentation`_
 - `Product Documentation`_

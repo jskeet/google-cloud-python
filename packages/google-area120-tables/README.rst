@@ -3,7 +3,7 @@ Python Client for Area 120 Tables
 
 |preview| |pypi| |versions|
 
-`Area 120 Tables`_: provides programmatic methods to the Area 120 Tables API.
+`Area 120 Tables`_: 
 
 - `Client Library Documentation`_
 - `Product Documentation`_

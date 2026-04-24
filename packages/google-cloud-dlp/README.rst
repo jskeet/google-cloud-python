@@ -3,7 +3,9 @@ Python Client for Cloud Data Loss Prevention
 
 |stable| |pypi| |versions|
 
-`Cloud Data Loss Prevention`_: provides programmatic access to a powerful detection engine for personally identifiable information and other privacy-sensitive data in unstructured data streams, like text blocks and images.
+`Cloud Data Loss Prevention`_: Discover and protect your sensitive data. A fully managed service designed
+to help you discover, classify, and protect your valuable data assets with
+ease.
 
 - `Client Library Documentation`_
 - `Product Documentation`_

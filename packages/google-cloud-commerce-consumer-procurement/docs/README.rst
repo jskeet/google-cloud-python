@@ -3,7 +3,7 @@ Python Client for Cloud Commerce Consumer Procurement API
 
 |preview| |pypi| |versions|
 
-`Cloud Commerce Consumer Procurement API`_: Cloud Commerce Consumer Procurement API
+`Cloud Commerce Consumer Procurement API`_: Enables consumers to procure products served by Cloud Marketplace platform
 
 - `Client Library Documentation`_
 - `Product Documentation`_

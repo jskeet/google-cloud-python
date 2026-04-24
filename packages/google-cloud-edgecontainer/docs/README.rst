@@ -3,7 +3,7 @@ Python Client for Distributed Cloud Edge Container
 
 |preview| |pypi| |versions|
 
-`Distributed Cloud Edge Container`_: Google Distributed Cloud Edge allows you to run Kubernetes clusters on dedicated hardware provided and maintained by Google that is separate from the Google Cloud data center.
+`Distributed Cloud Edge Container`_: 
 
 - `Client Library Documentation`_
 - `Product Documentation`_

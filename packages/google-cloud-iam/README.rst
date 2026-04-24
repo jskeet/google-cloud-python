@@ -3,7 +3,12 @@ Python Client for Cloud Identity and Access Management
 
 |stable| |pypi| |versions|
 
-`Cloud Identity and Access Management`_: Manages identity and access control for Google Cloud Platform resources, including the creation of service accounts, which you can use to authenticate to Google and make API calls.
+`Cloud Identity and Access Management`_: Manages identity and access control for Google Cloud resources, including
+the creation of service accounts, which you can use to authenticate to
+Google and make API calls. Enabling this API also enables the IAM Service
+Account Credentials API (iamcredentials.googleapis.com). However,
+disabling this API doesn't disable the IAM Service Account Credentials
+API.
 
 - `Client Library Documentation`_
 - `Product Documentation`_

@@ -3,7 +3,7 @@ Python Client for Merchant Inventories API
 
 |stable| |pypi| |versions|
 
-`Merchant Inventories API`_: Programmatically manage your Merchant Center accounts.
+`Merchant Inventories API`_: Programmatically manage your Merchant Center Accounts.
 
 - `Client Library Documentation`_
 - `Product Documentation`_

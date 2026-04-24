@@ -3,7 +3,7 @@ Python Client for Cloud Location Finder API
 
 |preview| |pypi| |versions|
 
-`Cloud Location Finder API`_: Cloud Location Finder lets you identify and filter cloud locations in regions and zones across Google Cloud, Google Distributed Cloud, Microsoft Azure, Amazon Web Services, and Oracle Cloud Infrastructure based on proximity, geographic location, and carbon footprint.
+`Cloud Location Finder API`_: 
 
 - `Client Library Documentation`_
 - `Product Documentation`_

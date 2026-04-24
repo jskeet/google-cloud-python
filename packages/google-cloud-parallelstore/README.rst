@@ -3,7 +3,7 @@ Python Client for Parallelstore API
 
 |preview| |pypi| |versions|
 
-`Parallelstore API`_: Parallelstore is based on Intel DAOS and delivers up to 6.3x greater read throughput performance compared to competitive Lustre scratch offerings.
+`Parallelstore API`_: 
 
 - `Client Library Documentation`_
 - `Product Documentation`_

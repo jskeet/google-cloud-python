@@ -3,7 +3,7 @@ Python Client for Merchant Reviews API
 
 |preview| |pypi| |versions|
 
-`Merchant Reviews API`_: Programmatically manage your Merchant Center Accounts
+`Merchant Reviews API`_: Programmatically manage your Merchant Center Accounts.
 
 - `Client Library Documentation`_
 - `Product Documentation`_

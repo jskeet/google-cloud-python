@@ -3,7 +3,7 @@ Python Client for KMS Inventory API
 
 |preview| |pypi| |versions|
 
-`KMS Inventory API`_: KMS Inventory API
+`KMS Inventory API`_: 
 
 - `Client Library Documentation`_
 - `Product Documentation`_

@@ -3,7 +3,7 @@ Python Client for Merchant Reports API
 
 |stable| |pypi| |versions|
 
-`Merchant Reports API`_: Programmatically manage your Merchant Center accounts
+`Merchant Reports API`_: Programmatically manage your Merchant Center Accounts.
 
 - `Client Library Documentation`_
 - `Product Documentation`_

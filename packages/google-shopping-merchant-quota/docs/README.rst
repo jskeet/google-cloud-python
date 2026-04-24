@@ -3,7 +3,7 @@ Python Client for Shopping Merchant Quota
 
 |stable| |pypi| |versions|
 
-`Shopping Merchant Quota`_: Programmatically manage your Merchant Center accounts.
+`Shopping Merchant Quota`_: Programmatically manage your Merchant Center Accounts.
 
 - `Client Library Documentation`_
 - `Product Documentation`_

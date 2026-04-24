@@ -3,7 +3,8 @@ Python Client for Rapid Migration Assessment API
 
 |preview| |pypi| |versions|
 
-`Rapid Migration Assessment API`_: The Rapid Migration Assessment service is our first-party migration assessment and planning tool.
+`Rapid Migration Assessment API`_: The Rapid Migration Assessment service is our first-party migration
+assessment and planning tool.
 
 - `Client Library Documentation`_
 - `Product Documentation`_

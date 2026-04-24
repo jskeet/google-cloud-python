@@ -3,7 +3,7 @@ Python Client for Merchant API
 
 |stable| |pypi| |versions|
 
-`Merchant API`_: Programmatically manage your Merchant Center Accounts. 
+`Merchant API`_: Programmatically manage your Merchant Center Accounts.
 
 - `Client Library Documentation`_
 - `Product Documentation`_

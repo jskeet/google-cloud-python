@@ -3,7 +3,7 @@ Python Client for App Hub API
 
 |preview| |pypi| |versions|
 
-`App Hub API`_: null 
+`App Hub API`_: 
 
 - `Client Library Documentation`_
 - `Product Documentation`_

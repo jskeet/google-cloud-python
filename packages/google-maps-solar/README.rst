@@ -3,7 +3,7 @@ Python Client for Solar API
 
 |preview| |pypi| |versions|
 
-`Solar API`_: The Google Maps Platform Solar API is a service focused on helping accelerate solar and energy system installations.
+`Solar API`_: Solar API.
 
 - `Client Library Documentation`_
 - `Product Documentation`_

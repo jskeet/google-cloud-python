@@ -3,7 +3,7 @@ Python Client for Google Apps Card Protos
 
 |preview| |pypi| |versions|
 
-`Google Apps Card Protos`_: Google Apps Card Protos
+`Google Apps Card Protos`_: 
 
 - `Client Library Documentation`_
 - `Product Documentation`_

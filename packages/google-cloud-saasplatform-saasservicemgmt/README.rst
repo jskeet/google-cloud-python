@@ -3,7 +3,7 @@ Python Client for SaaS Runtime API
 
 |preview| |pypi| |versions|
 
-`SaaS Runtime API`_: SaaS Runtime lets you store, host, manage, and monitor software as a service (SaaS) applications on Google Cloud.
+`SaaS Runtime API`_: Model, deploy, and operate your SaaS at scale.
 
 - `Client Library Documentation`_
 - `Product Documentation`_

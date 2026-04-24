@@ -3,7 +3,7 @@ Python Client for Google Cloud Managed Lustre API
 
 |preview| |pypi| |versions|
 
-`Google Cloud Managed Lustre API`_: null 
+`Google Cloud Managed Lustre API`_: 
 
 - `Client Library Documentation`_
 - `Product Documentation`_
