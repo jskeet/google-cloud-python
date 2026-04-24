@@ -9,7 +9,7 @@
     "language": "python",
     "library_type": "GAPIC_AUTO",
     "name": "gkemulticloud",
-    "name_pretty": "Anthos Multicloud",
+    "name_pretty": "GKE Multi-Cloud",
     "product_documentation": "https://cloud.google.com/anthos/clusters/docs/multi-cloud",
     "release_level": "preview",
     "repo": "googleapis/google-cloud-python"

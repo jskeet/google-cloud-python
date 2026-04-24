@@ -9,7 +9,7 @@
     "language": "python",
     "library_type": "GAPIC_AUTO",
     "name": "lineage",
-    "name_pretty": "Data Lineage API",
+    "name_pretty": "Data Lineage",
     "product_documentation": "https://cloud.google.com/data-catalog/docs/concepts/about-data-lineage",
     "release_level": "preview",
     "repo": "googleapis/google-cloud-python"

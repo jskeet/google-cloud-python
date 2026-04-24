@@ -9,7 +9,6 @@
     "language": "python",
     "library_type": "GAPIC_AUTO",
     "name": "google-apps-card",
-    "name_pretty": "Google Apps Card Protos",
     "product_documentation": "https://developers.google.com/chat",
     "release_level": "preview",
     "repo": "googleapis/google-cloud-python"
