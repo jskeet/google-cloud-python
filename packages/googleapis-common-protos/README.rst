@@ -14,9 +14,9 @@ Python Client for Google APIs Common Protos
    :target: https://pypi.org/project/googleapis-common-protos/
 .. |versions| image:: https://img.shields.io/pypi/pyversions/googleapis-common-protos.svg
    :target: https://pypi.org/project/googleapis-common-protos/
-.. _Google APIs Common Protos: https://github.com/googleapis/googleapis/tree/master/google
+.. _Google APIs Common Protos: 
 .. _Client Library Documentation: https://github.com/googleapis/google-cloud-python/tree/main/packages/googleapis-common-protos/summary_overview
-.. _Product Documentation:  https://github.com/googleapis/googleapis/tree/master/google
+.. _Product Documentation:  
 
 Quick Start
 -----------
@@ -30,7 +30,7 @@ In order to use this library, you first need to go through the following steps:
 
 .. _Select or create a Cloud Platform project.: https://console.cloud.google.com/project
 .. _Enable billing for your project.: https://cloud.google.com/billing/docs/how-to/modify-project#enable_billing_for_a_project
-.. _Enable the Google APIs Common Protos.:  https://github.com/googleapis/googleapis/tree/master/google
+.. _Enable the Google APIs Common Protos.:  
 .. _Set up Authentication.: https://googleapis.dev/python/google-api-core/latest/auth.html
 
 Installation
@@ -104,7 +104,7 @@ Next Steps
 -  View this `README`_ to see the full list of Cloud
    APIs that we cover.
 
-.. _Google APIs Common Protos Product documentation:  https://github.com/googleapis/googleapis/tree/master/google
+.. _Google APIs Common Protos Product documentation:  
 .. _README: https://github.com/googleapis/google-cloud-python/blob/main/README.rst
 
 Logging
