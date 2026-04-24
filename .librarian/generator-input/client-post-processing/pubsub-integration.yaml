@@ -178,7 +178,7 @@ replacements:
   # --- FIX: Restore custom README.rst Introduction ---
   - paths:
       - "packages/google-cloud-pubsub/README.rst"
-    before: '`Google Cloud Pub/Sub`_: is designed to provide reliable, many-to-many, asynchronous messaging between applications\. Publisher applications can send messages to a topic and other applications can subscribe to that topic to receive the messages\. By decoupling senders and receivers, Google Cloud Pub/Sub allows developers to communicate between independently written applications\.'
+    before: '`Google Cloud Pub/Sub`_: Provides reliable, many-to-many, asynchronous messaging between\napplications\.'
     after: |-
       'Google Cloud Pub/Sub:' is a fully-managed real-time messaging service that
       allows you to send and receive messages between independent applications. You
