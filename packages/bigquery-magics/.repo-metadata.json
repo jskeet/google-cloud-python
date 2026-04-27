@@ -1,7 +1,6 @@
 {
     "client_documentation": "https://googleapis.dev/python/bigquery-magics/latest/",
     "distribution_name": "bigquery-magics",
-    "issue_tracker": "https://github.com/googleapis/python-bigquery-magics/issues",
     "language": "python",
     "library_type": "INTEGRATION",
     "name": "bigquery-magics",

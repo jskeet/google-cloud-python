@@ -2,7 +2,6 @@
     "client_documentation": "https://googleapis.dev/python/type/latest",
     "default_version": "apiVersion",
     "distribution_name": "google-apps-script-type",
-    "issue_tracker": "https://github.com/googleapis/google-cloud-python/issues",
     "language": "python",
     "library_type": "GAPIC_AUTO",
     "name": "type",
