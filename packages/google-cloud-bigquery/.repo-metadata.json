@@ -1,5 +1,6 @@
 {
     "api_id": "bigquery.googleapis.com",
+    "api_shortname": "bigquery",
     "client_documentation": "https://cloud.google.com/python/docs/reference/bigquery/latest",
     "default_version": "v2",
     "distribution_name": "google-cloud-bigquery",
