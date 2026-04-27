@@ -4509,8 +4509,6 @@ libraries:
     version: 1.16.0
     python:
       library_type: INTEGRATION
-      name_pretty_override: SQLAlchemy dialect for BigQuery
-      api_id_override: bigquery.googleapis.com
       client_documentation_override: https://googleapis.dev/python/sqlalchemy-bigquery/latest/index.html
   - name: sqlalchemy-spanner
     version: 1.17.3
