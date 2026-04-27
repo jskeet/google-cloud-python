@@ -1,7 +1,7 @@
 {
     "api_description": "KMS Inventory API",
-    "api_id": "inventory.googleapis.com",
-    "api_shortname": "inventory",
+    "api_id": "kmsinventory.googleapis.com",
+    "api_shortname": "kmsinventory",
     "client_documentation": "https://cloud.google.com/python/docs/reference/inventory/latest",
     "default_version": "v1",
     "distribution_name": "google-cloud-kms-inventory",
