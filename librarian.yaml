@@ -2385,6 +2385,7 @@ libraries:
       default_version: v1
   - name: google-cloud-maintenance-api
     version: 0.4.0
+    skip_generate: true
     apis:
       - path: google/cloud/maintenance/api/v1
       - path: google/cloud/maintenance/api/v1beta
