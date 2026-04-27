@@ -9,7 +9,7 @@
     "language": "python",
     "library_type": "GAPIC_AUTO",
     "name": "google-cloud-locationfinder",
-    "name_pretty": "Cloud Location Finder API",
+    "name_pretty": "Cloud Location Finder",
     "product_documentation": "https://issuetracker.google.com/issues/new?component=1569265\u0026template=1988535",
     "release_level": "preview",
     "repo": "googleapis/google-cloud-python"

@@ -8,7 +8,6 @@
     "language": "python",
     "library_type": "GAPIC_COMBO",
     "name": "bigquery",
-    "name_pretty": "Google Cloud BigQuery",
     "product_documentation": "https://cloud.google.com/bigquery",
     "release_level": "stable",
     "repo": "googleapis/google-cloud-python"
