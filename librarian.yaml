@@ -4522,6 +4522,7 @@ libraries:
       name_pretty_override: Google APIs Common Protos
       client_documentation_override: https://github.com/googleapis/google-cloud-python/tree/main/packages/googleapis-common-protos
       issue_tracker_override: https://github.com/googleapis/google-cloud-python/issues
+      product_documentation_override: https://github.com/googleapis/googleapis/tree/master/google
       default_version: apiVersion
   - name: grafeas
     version: 1.22.0
