@@ -1,6 +1,7 @@
 {
     "client_documentation": "https://github.com/googleapis/python-crc32c",
     "distribution_name": "google-crc32c",
+    "issue_tracker": "https://github.com/googleapis/python-crc32c/issues",
     "language": "python",
     "library_type": "OTHER",
     "name": "google-crc32c",
