@@ -611,10 +611,10 @@ libraries:
       is a fully managed, NoOps, low cost data analytics service.
       Data can be streamed into BigQuery at millions of rows per second to enable real-time analysis.
       With BigQuery you can easily deploy Petabyte-scale Databases.
-    skip_generate: true
     python:
       library_type: GAPIC_COMBO
       name_pretty_override: Google Cloud BigQuery
+      issue_tracker_override: https://issuetracker.google.com/savedsearches/559654
       metadata_name_override: bigquery
       default_version: v2
   - name: google-cloud-bigquery-analyticshub

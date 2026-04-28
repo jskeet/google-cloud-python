@@ -1,6 +1,4 @@
 {
-    "api_id": "bigquery.googleapis.com",
-    "api_shortname": "bigquery",
     "client_documentation": "https://cloud.google.com/python/docs/reference/bigquery/latest",
     "default_version": "v2",
     "distribution_name": "google-cloud-bigquery",
@@ -9,7 +7,6 @@
     "library_type": "GAPIC_COMBO",
     "name": "bigquery",
     "name_pretty": "Google Cloud BigQuery",
-    "product_documentation": "https://cloud.google.com/bigquery",
     "release_level": "stable",
     "repo": "googleapis/google-cloud-python"
 }
