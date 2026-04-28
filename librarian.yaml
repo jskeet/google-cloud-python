@@ -2958,7 +2958,6 @@ libraries:
         - google/logging/type
         - google/rpc/context
       name_pretty_override: Google APIs Common Protos
-      product_documentation_override: https://github.com/googleapis/googleapis/tree/master/google
       client_documentation_override: https://github.com/googleapis/google-cloud-python/tree/main/packages/googleapis-common-protos
       default_version: apiVersion
   - name: grafeas
