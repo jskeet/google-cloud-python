@@ -1291,6 +1291,7 @@ libraries:
           - python-gapic-namespace=google.cloud
           - python-gapic-name=compute
       name_pretty_override: Compute Engine
+      issue_tracker_override: https://issuetracker.google.com/issues/new?component=187134&template=0
       default_version: v1beta
   - name: google-cloud-confidentialcomputing
     version: 0.9.0
