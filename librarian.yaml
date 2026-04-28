@@ -58,7 +58,6 @@ libraries:
     python:
       library_type: INTEGRATION
       name_pretty_override: A unified Python API in BigQuery
-      api_shortname_override: bigquery
       client_documentation_override: https://cloud.google.com/python/docs/reference/bigframes/latest
   - name: bigquery-magics
     version: 0.14.0
