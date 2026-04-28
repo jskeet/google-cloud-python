@@ -3064,6 +3064,7 @@ libraries:
     python:
       library_type: GAPIC_MANUAL
       name_pretty_override: Google Cloud Runtime Configurator
+      issue_tracker_override: https://issuetracker.google.com/savedsearches/559663
       metadata_name_override: runtimeconfig
   - name: google-cloud-saasplatform-saasservicemgmt
     version: 0.5.0
@@ -3370,6 +3371,7 @@ libraries:
           - python-gapic-name=_storage
           - warehouse-package-name=google-cloud-storage
       name_pretty_override: Google Cloud Storage
+      issue_tracker_override: https://issuetracker.google.com/savedsearches/559782
       metadata_name_override: storage
       default_version: v2
   - name: google-cloud-storage-control
